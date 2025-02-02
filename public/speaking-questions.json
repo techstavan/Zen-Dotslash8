@@ -1,0 +1,2651 @@
+{
+  "part1": [
+    [
+      "Are there many animals in your area?",
+      "Are there many birds in your area?",
+      "How often do you watch TV programs about wild animals?",
+      "How often do you read articles about wild animals?",
+      "Have you ever been to a zoo?",
+      "Have you ever been to a wildlife park?",
+      "Would you like to have a job working with animals?"
+    ],
+    [
+      "Are there many quiet places in your city?",
+      "Why do people sometimes prefer to be alone?",
+      "Is there much noise around your home?",
+      "Does noise affect your daily life?"
+    ],
+    [
+      "Are you currently a student?",
+      "Where do you study?",
+      "How long have you studied there?",
+      "Is your school far from your home?"
+    ],
+    [
+      "What is your current job?",
+      "How long have you been working at your current job?",
+      "What do you enjoy about your job?",
+      "What job did you want to do when you were a child?",
+      "Do you think you will change jobs in the future?"
+    ],
+    [
+      "How often do you eat at restaurants?",
+      "How do you choose which restaurant to visit?",
+      "Are fast-food restaurants popular in your country?",
+      "Do you cook for yourself or others?",
+      "Can you recommend a good restaurant in your hometown?"
+    ],
+    [
+      "Are you good at memorizing things?",
+      "How often do you need to remember things?",
+      "Why do people often forget small things?",
+      "How do you make sure you don't forget important things?",
+      "Have you ever forgotten something important?",
+      "Why do some people have better memory than others?",
+      "Why do people rely on phones to remember things nowadays?"
+    ],
+    [
+      "Are you happy with your current age?",
+      "Did you think about your future when you were a child?",
+      "How have you changed as you've gotten older?",
+      "What do you think will be different about your life in the future?"
+    ],
+    [
+      "Do you watch TV advertisements?",
+      "Do you watch internet advertisements?",
+      "What kinds of advertisements do you dislike?",
+      "Do you share advertisements with other people?",
+      "Would you like to work in advertising in the future?"
+    ],
+    [
+      "Are most of your friends the same age as you?",
+      "When do you usually meet your friends?",
+      "What did you do last time you met your friends?",
+      "Why are your friends important to you?"
+    ],
+    [
+      "What is your neighborhood like?",
+      "What facilities are available for children in your area?",
+      "Do tourists visit your area?"
+    ]
+  ],
+  "part2": [
+    "Describe a tv documentary you watched that was particularly interesting.\nYou should say:\nWhat the documentary was about\nWhy you decided to watch it\nWhat you learnt during the documentary\nAnd explain why the tv documentary was particularly interesting.",
+    "Describe a tv documentary you watched that was particularly interesting.\nYou should say:\nWhat the documentary was about\nWhy you decided to watch it\nWhat you learnt during the documentary\nAnd explain why the tv documentary was particularly interesting.",
+    "Describe a beautiful city that you have visited\nYou should say:\nWhere the city is\nWhen you went there\nWhy you went there\nAnd explain why it is beautiful.",
+    "Describe a bicycle/motorcycle/car trip you would like to go\nYou should say:\nWho you would like to go with\nWhere you would like to go\nWhen you would like to go\nAnd explain why you would like to go by bicycle/motorcycle/car",
+    "Describe a big city you would like to visit.\nYou should say:\nWhich big city you would like to visit\nHow you would travel there\nWhat you would do there\nAnd explain why you would like to visit this big city.",
+    "Describe a big city you would like to visit.\nYou should say:\nWhich big city you would like to visit\nHow you would travel there\nWhat you would do there\nAnd explain why you would like to visit this big city.",
+    "Describe a big company that you would like to work in\nYou should say:\nWhat kind of company it is\nWhat the company does\nHow you know about this company and explain why you are interested in working in this company.",
+    "Describe a big company that you would like to work in\nYou should say:\nWhat kind of company it is\nWhat the company does\nHow you know about this company and explain why you are interested in working in this company.",
+    "Describe a book that you enjoyed reading because it made you think a lot.\nYou should say:\nWhat this book was\nWhy you decided to read it\nWhat reading this book made you think about\nAnd explain why you enjoyed reading this book",
+    "Describe a book that you enjoyed reading because you had to think a lot.\nYou should say:\nWhat this book was\nWhy you decided to read it\nWhat reading this book made you think about\nAnd explain why you enjoyed reading this book",
+    "Describe a book that you enjoyed reading because you had to think a lot.\nYou should say:\nWhat this book was\nWhy you decided to read it \nWhat reading this book made you think about\nAnd explain why you enjoyed reading this book.",
+    "Describe a businessman you admire\nYou should say:\nWho this person is\nHow you knew this person\nWhat kinds of business this person does\nAnd explain why you admire this person",
+    "Describe a cafe you enjoy/have been to.\nYou should say:\nWhere it is\nHow often you go there\nWhen you usually go there\nWhy you like to visit this cafe",
+    "Describe a cafe you'd like to visit\nYou should say:\nWhere it is\nWhat kinds of food and drinks it serves\nWho you usually go there with\nAnd explain why you like to go there",
+    "Describe a car journey you made that took longer than expected.\nYou should say:\nWhere you were going\nWho you were with\nHow you felt during the journey\nAnd explain why this car journey took longer than expected.",
+    "Describe a child that you know.\nYou should say:\nWho this child is and how often you see him or her\nHow old this child is\nWhat he or she is like\nAnd explain what you feel about this child.",
+    "Describe a child that you know.\nYou should say:\nWho this child is and how often you see him or her\nHow old this child is\nWhat he or she is like\nAnd explain what you feel about this child.",
+    "Describe a competition (e.g. tv, college/work or sports competition) that you took part in.\nYou should say:\nWhat kind of competition it was and how you found out about it\nWhat you had to do\nWhat the prizes were\nAnd explain why you chose to take part in this competition.",
+    "Describe a competition (e.g. tv, college/work or sports competition) that you took part in.\nYou should say:\nWhat kind of competition it was and how you found out about it\nWhat you had to do\nWhat the prizes were\nAnd explain why you chose to take part in this competition.",
+    "Describe a contest/competition you would like to participate in\nYou should say:\nWhat the contest/competition is about\nWhere the contest/competition will take place\nWhen it will be held and explain why you would like to participate in it",
+    "Describe a course that impressed you a lot\nYou should say:\nWhat the course was about\nWhere you took the course\nWhat you did during the course",
+    "Describe a course you took in your college or university.\nYou should say:\nWhat it was\nWhen you took it\nWhat you learned from this course\nAnd explain why you took this course.",
+    "Describe a course you took in your college or university.\nYou should say:\nWhat it was\nWhen you took it\nWhat you learned from this course\nAnd explain why you took this course.",
+    "Describe a creative person(an artist/musician/...) whose work you admire\nYou should say:\nWho he/she is\nHow you knew him/her\nWhat creative things he/she has done\nAnd explain why you think he/she is creative",
+    "Describe a daily routine that you enjoy\nYou should say:\nWhat it is\nWhere and when you do it\nWho you do it with\nAnd explain why you enjoy it.",
+    "Describe a day when you thought the weather was perfect.\nYou should say:\nWhere you were on this day\nWhat the weather was like on this day\nWhat you did during the day\nAnd explain why you thought the weather was perfect on this day.",
+    "Describe a day when you thought the weather was perfect.\nYou should say:\nWhere you were on this day\nWhat the weather was like on this day\nWhat you did during the day\nAnd explain why you thought the weather was perfect on this day.",
+    "Describe a difficult decision that you once made\nYou should say:\nWhat the decision was\nWhen you made your decision\nHow long it took to make the decision\nAnd explain why it was difficult to make",
+    "Describe a difficult task that you completed at work/study that you felt proud of.\nYou should say:\nWhat the task was\nHow you completed it\nWhy the task was difficult\nWhy",
+    "Describe a family member who you want to work with in the future\nYou should say:\nWho he/she is\nWhether you worked together before\nWhat kind of work you would like to do with him/her\nAnd explain how you feel about this family member",
+    "Describe a famous business person that you know about.\nYou should say:\nWho this person is\nWhat kind of business this person is involved in\nWhat you know about this business person\nAnd explain what you think of this business person.",
+    "Describe a famous business person that you know about.\nYou should say:\nWho this person is\nWhat kind of business this person is involved in\nWhat you know about this business person\nAnd explain what you think of this business person.",
+    "Describe a famous city that you think is interesting\nYou should say:\nWhere it is\nWhat the city is famous for\nWhy it is interesting\nAnd explain how you feel about it",
+    "Describe a film character played by an actor or actress whom you admire\nYou should say:\nWho he/she is\nWhat he/she looks like\nWhat kind of movies she/he appears in\nAnd explain why you admire this person.",
+    "Describe a film you enjoyed.\nYou should say:\nThe name of the film and where it was made\nWhat kind of film it was\nWhat happened in the film\nAnd explain why you enjoyed it.",
+    "Describe a film you enjoyed.\nYou should say:\nThe name of the film and where it was made\nWhat kind of film it was\nWhat happened in the film\nAnd explain why you enjoyed it.",
+    "Describe a film/movie actor from your country who is very popular.\nYou should say:\nWho this actor is\nWhat kinds of films/movies he/she acts in\nWhat you know about this actor's life\nAnd explain why this actor is so popular",
+    "Describe a film/movie actor from your country who is very popular.\nYou should say:\nWho this actor is\nWhat kinds of films/movies he/she acts in\nWhat you know about this actor's life\nAnd explain why this actor is so popular",
+    "Describe a foreign person who you have heard or known that you think is interesting\nYou should say:\nWho the person is\nHow you knew him/her\nWhat kind of person he/she is\nAnd explain why you think he/she is interesting",
+    "Describe a foreigner you know who speaks your language (vietnamese) well\nYou should say:\nWho this person is\nWhere he/she is from\nHow he/she learns vietnamese\nAnd explain why he/she can speak vietnamese well.",
+    "Describe a friend of your family you remember from your childhood.\nYou should say:\nWho the person was\nHow your family knew this person\nHow often this person visited your family\nAnd explain why you remember this person.",
+    "Describe a friend of your family you remember from your childhood.\nYou should say:\nWho the person was\nHow your family knew this person\nHow often this person visited your family\nAnd explain why you remember this person.",
+    "Describe a fun indoor game you played as a child\nYou should say:\nWhat the name of the game was\nWhat the aim of the game was\nWho you played with and explain why it was such fun for you.",
+    "Describe a fun indoor game you played as a child\nYou should say:\nWhat the name of the game was\nWhat the aim of the game was\nWho you played with and explain why it was such fun for you.",
+    "Describe a gift you have received that was important to you.\nYou should say:\nWho gave it to you and for what occasion\nWhat it looks like and how you use it \nWhy it is important to you",
+    "Describe a gift you have received that was important to you.\nYou should say:\nWho gave it to you and for what occasion\nWhat it looks like and how you use it \nWhy it is important to you",
+    "Describe a gift you would like to buy for your friend\nYou should say:\nWhen it happened\nWhat gift it was\nWho you gave it to\nAnd explain why you chose that gift",
+    "Describe a good advertisement that you think is useful\nYou should say:\nWhere you can see it\nWhat it shows\nWhy you think it is useful\nAnd explain how you feel about it.",
+    "Describe a good service you received (company or store/shop)\nYou should say:\nWhat the service was\nWhen you received it\nWho you were with\nAnd how you felt about it",
+    "Describe a habit your friend has and you want to develop\nYou should say:\nWho your friend is\nWhat habit he/she has\nWhen you noticed this habit\nAnd explain why you want to develop this habit",
+    "Describe a historical event from your country\nYou should say:\nWhat event it is\nWhen it happened\nWho or what was involved in it\nAnd explain why you think it is an important historical event",
+    "Describe a historical period you would like to learn\nYou should say:\nWhen this period was;\nWhat it was famous for;\nWhy",
+    "Describe a holiday you would like to go on.\nYou should say:\nWhat place you would like to go to\nHow you would like to get there\nWhat you would like to do while you were there\nAnd explain why you would like to go on this holiday.",
+    "Describe a holiday you would like to go on.\nYou should say:\nWhat place you would like to go to\nHow you would like to get there\nWhat you would like to do while you were there\nAnd explain why you would like to go on this holiday.",
+    "Describe a hotel or place away from your home that you have stayed in\nYou should say:\n-where you stayed\n-why you stayed there\n-how you felt when you stayed there and explain how you felt when you stayed there.",
+    "Describe a hotel that you know\nYou should say:\nWhere this hotel is\nWhat this hotel looks like\nWhat facilities this hotel has\nAnd explain whether you think this is a nice hotel to stay in.",
+    "Describe a hotel that you know\nYou should say:\nWhere this hotel is\nWhat this hotel looks like\nWhat facilities this hotel has\nAnd explain whether you think this is a nice hotel to stay in.",
+    "Describe a house/apartment that someone you know lives in.\nYou should say:\nWhose house/apartment this is\nWhere the house/apartment is\nWhat it looks like inside\nAnd explain what you like or dislike about this person's house/apartment.",
+    "Describe a house/apartment that someone you know lives in.\nYou should say:\nWhose house/apartment this is\nWhere the house/apartment is\nWhat it looks like inside\nAnd explain what you like or dislike about this person's house/apartment.",
+    "Describe a job you think interests people\nYou should say:\nWhat it is\nWhen you started concerning about this job\nHow you can find this job\nAnd explain why it is an interesting job",
+    "Describe a journey [e.g. by car, plane, boat] that you remember well.\nYou should say:\nWhere you went\nHow you travelled\nWhy you went on the journey\nAnd explain why you remember this journey well.",
+    "Describe a journey you remember well. you should say:\nHow you travelled\nWhere you went\nWhat happened\nAnd explain why the journey was memorable for you.",
+    "Describe a journey you remember well. you should say:\nHow you travelled\nWhere you went\nWhat happened\nAnd explain why the journey was memorable for you.",
+    "Describe a law that was introduced in your country and that you thought was a very good idea.\nYou should say:\nWhat the law was\nWho introduced it\nWhen and why it was introduced\nAnd explain why you thought this law was such a good idea.",
+    "Describe a lesson that you remember well\nYou should say:\nWhat the course was about\nWhere you had it\nWhy you remember it\nAnd explain why it impressed you a lot",
+    "Describe a long walk you ever had\nYou should say:\nWhen this happened\nWhere you walked\nWho you were with\nAnd explain how you felt about this long walk",
+    "Describe a luxury item you would like to own in the future.\nYou should say:\nWhat item you would like to own\nWhat this item looks like\nWhy you would like to own this item\nAnd explain whether you think you will ever own this item.",
+    "Describe a luxury item you would like to own in the future.\nYou should say:\nWhat item you would like to own\nWhat this item looks like\nWhy you would like to own this item\nAnd explain whether you think you will ever own this item.",
+    "Describe a meeting you remember going to at work, college or school.\nYou should say:\nWhen and where the meeting was held who was at the meeting\nWhat the people at the meeting talked about\nAnd explain why you remember going to this meeting.",
+    "Describe a meeting you remember going to at work, college or school.\nYou should say:\nWhen and where the meeting was held who was at the meeting\nWhat the people at the meeting talked about\nAnd explain why you remember going to this meeting.",
+    "Describe a monument (e.g., a statue or sculpture) that you like.\nYou should say:\nWhat this monument is\nWhere this monument is\nWhat it looks like\nAnd explain why you like this monument.",
+    "Describe a monument (e.g., a statue or sculpture) that you like.\nYou should say:\nWhat this monument is\nWhere this monument is\nWhat it looks like\nAnd explain why you like this monument.",
+    "Describe a new development in the area where you live (e.g. shopping mall, park...)\nYou should say:\nWhat and where the development is\nWhat it was like before\nHow long it took to complete it\nHow people feel about it\nAnd explain how it has improved the area you live in",
+    "Describe a noisy place you have been to\nYou should say:\nWhere it is\nWhen you went there\nWhat you did there\nAnd explain why you feel it's a noisy place.",
+    "Describe a park/garden you have enjoyed visiting\nYou should say:\nWhen you often go there\nWhere it is\nWho you often go there with\nAnd explain what it is like.",
+    "Describe a party that you enjoyed\nYou should say:\nWhen you went to the party\nWhere the party was held\nWhat kind of party it was\nAnd explain why you enjoyed this party.",
+    "Describe a party that you enjoyed\nYou should say:\nWhose party it was and what it was celebrating\nWhere the party was held and who went to it\nWhat people did during the party\nAnd explain what you enjoyed about this party.",
+    "Describe a party that you enjoyed\nYou should say:\nWhose party it was and what it was celebrating\nWhere the party was held and who went to it\nWhat people did during the party\nAnd explain what you enjoyed about this party.",
+    "Describe a period of time from your studies that was the most difficult for you so far.\nYou should say:\nWhen it was\nWhy was it hard\nWhat you were doing at that time",
+    "Describe a period of time that changed your life\nYou should say:\nWhen it was\nWho you were with\nWhat happened at that time\nAnd explain why it changed your life.",
+    "Describe a person from your country who has won a prize, award or medal.\nYou should say:\nWho this person is\nWhich prize, award or medal they received\nWhat they did to win this\nAnd explain whether you think it was right that this person received this prize, award or medal.",
+    "Describe a person that you enjoy spending time with\nYou should say:\nWho this person is\nHow you knew him/her\nWhat you usually do together\nAnd explain why you like to spend time with him/her",
+    "Describe a person who has done a lot of work to help people.\nYou should say:\nWho this person is/was\nWhere this person lives/lived\nWhat he/she has done to help people\nAnd explain how you know about this person.",
+    "Describe a person who has interesting ideas and opinions\nYou should say:\nWho this person is\nHow you know this person\nWhat interesting ideas/opinions he/she\nAnd explain",
+    "Describe a person who impressed you most when you were in primary school\nYou should say:\nWho he/she is\nHow you knew him/her\nWhy he/she impressed you most\nAnd how you feel about him/he",
+    "Describe a person who inspired you to do something interesting\nYou should say:\nWho he/she is\nHow you knew him/her\nWhat interesting thing you did\nAnd explain how he/she inspired you to do it",
+    "Describe a person who just moved into your community and brought positive influence\nYou should say:\nWho this person is\nWhen and where this person moved to your community\nHow you know this person\nAnd explain how you feel about this person",
+    "Describe a person who likes to cook for others\nYou should say:\nWho this person is\nWhat he/she likes to cook\nWhy he/she likes to cook\nAnd explain",
+    "Describe a person who likes to dress fashionably/well\nYou should say:\nWho he/she is\nWhat kind of work or study he/she does\nWhat he/she wears\nAnd explain why he/she dresses fashionably/well",
+    "Describe a person who solved a problem in a smart way\nYou should say:\nWho this person is\nWhat the problem was\nHow he/she solved it\nAnd explain why you think he/she did it in a smart way",
+    "Describe a person you follow regularly on social media\nYou should say:\nWho he/she is\nHow you knew him/her\nWhat he/she posts on social media\nAnd explain why you follow him/her on social media",
+    "Describe a person you have met who you want to work or study with\nYou should say:\nWho this person is\nHow you met this person\nHow long you have known him/her",
+    "Describe a person you know who does a job which is useful to society\nYou should say:\nWho this person is\nHow you knew him/her\nWhat type of work he/she does\nAnd explain why you think his/her work is useful to the society",
+    "Describe a person you know who has an interesting job.\nYou should say:\nWho the person is\nWhat job the person does\nWhat skills he or she needs to do this job\nAnd explain why you think this person's job is interesting",
+    "Describe a person you know who has an interesting job.\nYou should say:\nWho the person is\nWhat job the person does\nWhat skills he or she needs to do this job\nAnd explain why you think this person's job is interesting",
+    "Describe a person you know who loves to grow plants (vegetables, fruits, flowers)\nYou should say:\nWho this person is\nWhat he/she grows\nWhere he/she grows them\nAnd explain why he/she enjoys growing plants",
+    "Describe a person you know who you think is successful\nYou should say:\nWho the person is\nHow did you know the person\nWhat he/she has achieved\nAnd explain why do you think the person is successful.",
+    "Describe a person you met at a party who you enjoyed talking with\nYou should say:\nWhat party it was\nWho this person is\nWhat you talked about",
+    "Describe a person you only met once and want to know more about\nYou should say:\nWho he/she is\nWhen you met him/her\nWhy you want to know more about him/her\nAnd explain how you feel about him/her",
+    "Describe a photo that makes you feel happy\nYou should say:\nWhat the photo like\nWhen and where you took this photo\nHow often you watch the photo\nAnd explain why it makes you feel happy.",
+    "Describe a photo you took that you are proud of\nYou should say:\nWhen you took it\nWhere you took it\nWhat is in this photo\nAnd explain why you are proud of it",
+    "Describe a piece of electronic equipment that you find useful.\nYou should say:\nWhat it is\nHow you learned to use it\nHow long you have had it\nAnd explain why you find this piece of electronic equipment useful.",
+    "Describe a piece of electronic equipment that you find useful.\nYou should say:\nWhat it is\nHow you learned to use it\nHow long you have had it\nAnd explain why you find this piece of electronic equipment useful.",
+    "Describe a piece of good news that you heard about someone you know well\nYou should say:\nWhat it was\nWhen you heard it\nHow you knew it\nAnd explain how you felt about it.",
+    "Describe a piece of technology you own that you feel is difficult to use\nYou should say:\nWhen you got it\nWhat you got it for\nHow often you use it\nAnd explain how you feel about it",
+    "Describe a place in a village that you visited\nYou should say:\nWhere it is\nWhen you visited this place\nWhat you did there\nAnd how you feel about this place",
+    "Describe a place in the countryside that you visited\nYou should say:\nWhere it is\nWhen you visited this place\nWhat you did there\nAnd explain how you feel about this place",
+    "Describe a place in your country that you are interested in\nYou should say:\nWhere it is\nHow you knew it\nWhy you are interested in it",
+    "Describe a place in your country that you would really like to visit\nYou should say:\nWhere this place is\nHow long you would like to spend there\nWho you would like to go with\nAnd explain why you would really like to visit this place in your country.",
+    "Describe a place in your country that you would really like to visit\nYou should say:\nWhere this place is\nHow long you would like to spend there\nWho you would like to go with\nAnd explain why you would really like to visit this place in your country.",
+    "Describe a place you have been to where there were lots of people\nYou should say:\nWhere it is\nWho you were with\nWhat people were doing there\nAnd explain why there were lots of people",
+    "Describe a place you visited on vacation\nYou should say:\nWhere it is\nWhen you went there\nWhat you did there\nAnd explain why you went there",
+    "Describe a place you visited that has beautiful views.\nYou should say:\nWhere this place is\nWhen and why you visited it\nWhat views you can see from this place\nAnd explain why you think these views are so beautiful.",
+    "Describe a popular person (who) you know.\nYou should say:\nWho this person is\nWhat this person does\nHow you know them (= him or her)\nAnd explain why (you think) they are popular.",
+    "Describe a popular place for sports\nYou should say:\nWhere it is\nWhen you went there\nWhat you did there\nAnd explain how you felt about this place",
+    "Describe a popular teacher that you know.\nYou should say:\nWhat this teacher looks like\nWhat sort of person this teacher is\nWhat this teacher helped you to learn\nAnd explain why this teacher is popular.",
+    "Describe a popular teacher that you know.\nYou should say:\nWhat this teacher looks like\nWhat sort of person this teacher is\nWhat this teacher helped you to learn\nAnd explain why this teacher is popular.",
+    "Describe a positive change that you made in your life\nYou should say:\nWhat it is\nWhy you did it\nWho you did it with\nAnd explain how you feel about the change",
+    "Describe a problem that affects the environment in the area where you live.\nYou should say:\nWhat the problem is\nWhat causes it\nWhat people feel about the problem\nAnd explain what you think could be done to solve it.",
+    "Describe a problem that affects the environment in the area where you live.\nYou should say:\nWhat the problem is\nWhat causes it\nWhat people feel about the problem\nAnd explain what you think could be done to solve it.",
+    "Describe a problem you have when you use the computer\nYou should say:\nWhat the problem is?\nWhen and where does it happen?\nAnd explain how do you solve the problem.",
+    "Describe a quiet place you like to go\nYou should say:\nWhere it is\nHow you learned about it\nHow often you go there\nWhat you do there and explain how you feel about the place",
+    "Describe a quiet place you like.\nYou should say:\nWhere it is\nHow often you go there\nWhat you do there\nWhy you like this place",
+    "Describe a quiet place you like.\nYou should say:\nWhere it is\nHow often you go there\nWhat you do there\nWhy you like this place",
+    "Describe a restaurant that you enjoyed going to.\nYou should say:\nWhere the restaurant was\nWhy you chose this restaurant\nWhat type of food you ate in this restaurant and explain why you enjoyed eating in this restaurant.",
+    "Describe a restaurant that you enjoyed going to.\nYou should say:\nWhere the restaurant was\nWhy you chose this restaurant\nWhat type of food you ate in this restaurant and explain why you enjoyed eating in this restaurant.",
+    "Describe a restaurant you enjoyed going to.\nYou should say:\nWhere the restaurant was\nWho you went with\nWhat type of food you ate in this restaurant\nAnd explain why you thought the restaurant was good.",
+    "Describe a restaurant you enjoyed going to.\nYou should say:\nWhere the restaurant was\nWho you went with\nWhat type of food you ate in this restaurant\nAnd explain why you thought the restaurant was good.",
+    "Describe a review you read about a product or service.\nYou should say:\nWhere you read the review\nWhat the product or service was\nWhat information the review gave about the product or service\nAnd explain what you did as a result of reading this reveiw.",
+    "Describe a review you read about a product or service.\nYou should say:\nWhere you read the review\nWhat the product or service was\nWhat information the review gave about the product or service\nAnd explain what you did as a result of reading this reveiw.",
+    "Describe a rule (in school or work) that you don't like\nYou should say:\nWhat it is\nWhy you don't like it\nHow others feel about the rule\nAnd explain whether you've followed the rule",
+    "Describe a rule that is important in your school or at work\nYou should say:\nWhat the rule is\nIf the people break this rule, what will happen\nWhy do you think this is an important rule?",
+    "Describe a science subject that you are interested in (biology, robotics, etc.)\nYou should say:\nWhich subject it is?\nHow and where did you know this subject?\nHow do you usually get information about this subject?\nAnd explain why you are interested in this subject.",
+    "Describe a selfie which you catch in your mobile phone on your favorite occasion\nYou should say:\nWhen you took it\nWhat type of camera you used\nWhy you took the photo\nAnd explain whether you liked this photo or not.",
+    "Describe a shop near where you live that you sometimes use.\nYou should say:\nWhat sorts of product or service it sells\nWhat the shop looks like\nWhere it is located\nAnd explain why you use this shop.",
+    "Describe a shop near where you live that you sometimes use.\nYou should say:\nWhat sorts of product or service it sells\nWhat the shop looks like\nWhere it is located\nAnd explain why you use this shop.",
+    "Describe a shopping centre/mall that you have visited or that you know about.\nYou should say:\nWhere the shopping centre/mall is\nHow people travel to the shopping centre/mall\nWhat kinds of shops it has\nAnd explain whether you think it is a good place to go shopping.",
+    "Describe a shopping centre/mall that you have visited or that you know about.\nYou should say:\nWhere the shopping centre/mall is\nHow people travel to the shopping centre/mall\nWhat kinds of shops it has\nAnd explain whether you think it is a good place to go shopping.",
+    "Describe a situation when something in your house was broken or stopped working\nYou should say:\nWhat it was\nWhat happened\nWhen it broke/stopped working\nAnd explain how you felt about it",
+    "Describe a skill that was difficult for you to learn\nYou should say:\nWhen you learned it\nWhy you learned it\nHow you learned it\nAnd explain how you felt when you learned it",
+    "Describe a song that you think is interesting\nYou should say:\nWhat the song is\nWhat story the song tells\nWhether the song is popular\nAnd explain why you think it is interesting",
+    "Describe a song that you will always remember.\nYou should say:\nWhat the song is\nWhen and where you first heard this song what you liked about this song\nAnd explain why you will always remember this song.",
+    "Describe a song that you will always remember.\nYou should say:\nWhat the song is\nWhen and where you first heard this song what you liked about this song\nAnd explain why you will always remember this song.",
+    "Describe a special cake you received from others\nYou should say:\nWhen it happened\nWhere it happened\nWho you got the cake from\nAnd explain why it's a special cake",
+    "Describe a special day out that cost you little money/didn't cost you much\nYou should say:\nWhen the day was\nWhere you went\nHow much you spent\nAnd explain how you feel about the day",
+    "Describe a special event (e.g. a festival, carnival or other celebration) that takes place in your country.\nYou should say:\nWhen the event takes place\nWhy it takes place\nWhat people do\nAnd explain why the event is special.",
+    "Describe a special event (e.g. a festival, carnival or other celebration) that takes place in your country.\nYou should say:\nWhen the event takes place\nWhy it takes place\nWhat people do\nAnd explain why the event is special.",
+    "Describe a sportsperson from your country who did well in a sports event\nYou should say:\nWho he/she is\nWhat you know about him/her\nWhat he/she is like in real life\nWhat achievement he/she has made\nAnd explain why you admire him/her.",
+    "Describe a story about space (real or fictitious) that you have read about or seen in a film or on tv.\nYou should say:\nWhen you read about or saw the story what happened in the story\nWhether the story has any significance today \nAnd explain how you felt about this story.",
+    "Describe a story about space (real or fictitious) that you have read about or seen in a film or on tv.\nYou should say:\nWhen you read about or saw the story what happened in the story\nWhether the story has any significance today \nAnd explain how you felt about this story.",
+    "Describe a story or novel you have read that you found interesting\nYou should say:\nWhen you read it\nWhat the story or novel was about\nWho wrote it\nAnd explain why it was interesting",
+    "Describe a story someone told you and you remember\nYou should say:\nWhat the story was about\nWho told you this story\nWhy you remember it\nAnd how you felt about it",
+    "Describe a teacher who has influenced you in your education.\nYou should say\nWho this teacher was\nWhat subject he/she taught\nWhat was so special about him/her\nAnd explain why this person influenced you so much in your education. ",
+    "Describe a teacher who has influenced you in your education.\nYou should say\nWho this teacher was\nWhat subject he/she taught\nWhat was so special about him/her\nAnd explain why this person influenced you so much in your education. ",
+    "Describe a teacher who has influenced you in your education.\nYou should say:\nWhere you met him/her.\nWhat subject he/she taught.\nWhat was special about him/her.\nAnd explain why this person influenced you so much.",
+    "Describe a teacher who has influenced you in your education.\nYou should say:\n\u2022 where you met him/her.\n\u2022 what subject he/she taught.\n\u2022 what was special about him/her.\nAnd explain why this person influenced you so much.",
+    "Describe a teacher who has influenced you.\nYou should say:\n   where you met him/he\n   what subjects he/she taught,\n   why she/he was special\n  and how they influenced you.",
+    "Describe a teacher who has influenced you.\nYou should say:\nWhere you met him/he\nWhat subjects he/she taught,\nWhy she/he was special\nAnd how they influenced you.",
+    "Describe a television programme that you watch.\nYou should say:\nWhich kind of television programme it is\nWhat usually happens in the television programme\nWhy you enjoy watching the television programme\nAnd explain why you would recommend the television programme to other people.",
+    "Describe a television programme that you watch.\nYou should say:\nWhich kind of television programme it is\nWhat usually happens in the television programme\nWhy you enjoy watching the television programme\nAnd explain why you would recommend the television programme to other people.",
+    "Describe a thing you cannot live without (not cell phone or computer)\nYou should say:\nWhat it is\nWhy you can't manage without it\nHow long you have had it for\nAnd explain how you felt when you were without it",
+    "Describe a time when you felt proud of a family member\nYou should say:\nWhen it happened\nWho the person is\nWhat the person did\nAnd explain why you felt proud of him/her",
+    "Describe a time when you forgot/missed an appointment\nYou should say:\nWhat the appointment was for\nWho you made it with\nWhy you forgot/missed it\nAnd explain how you felt about the experience",
+    "Describe a time when you gave good advice to someone\nYou should say:\nWhen it was\nTo whom you gave the advice\nWhat the advice was\nAnd explain why you gave the advice.",
+    "Describe a time when you gave some helpful advice to someone\nYou should say:\nWho you gave advice to\nWhat the advice was\nWhy you gave the advice\nAnd explain how you felt about the advice",
+    "Describe a time when you got up early\nYou should say:\nWhen it was\nWhat you did\nWhy you got up early\nAnd how you felt about it",
+    "Describe a time when you had a problem and someone helped you.\nYou should say:\nWhat the problem was\nWho the person was who helped you what this person did to help you\nAnd explain how you felt when this person helped you.",
+    "Describe a time when you had a problem and someone helped you.\nYou should say:\nWhat the problem was\nWho the person was who helped you what this person did to help you\nAnd explain how you felt when this person helped you.",
+    "Describe a time when you had to do something difficult, and you succeeded\nYou should say:\nWhat is was\nHow you did/completed it\nWhy it was difficult\nAnd how you felt about doing it",
+    "Describe a time when you helped a child\nYou should say:\nWhen it was\nHow you helped him/her\nWhy you helped him/her\nAnd how you felt about it",
+    "Describe a time when you helped someone.\nYou should say:\nWho you helped and why\nHow you helped this person\nWhat the result was\nAnd explain how you felt about helping this person.",
+    "Describe a time when you helped someone.\nYou should say:\nWho you helped and why\nHow you helped this person\nWhat the result was\nAnd explain how you felt about helping this person.",
+    "Describe a time when you made a complaint and were satisfied with the result\nYou should say:\nWhen it happened\nWho you complained it to\nWhat you complained about\nAnd explain why you were happy with the result.",
+    "Describe a time when you missed or were late for a meeting\nYou should say:\nWhen it happened\nWhat happened\nWhy you missed/were late for it\nAnd explain how you felt about this experience",
+    "Describe a time when you moved to a new home or school\nYou should say:\nWhen you moved\nWhere you moved\nWhy you moved\nAnd how you felt about it",
+    "Describe a time when you needed to search for information\nYou should say:\nWhat information you needed to search for\nWhen you searched for it\nWhere you searched for it\nAnd explain why you needed to search for it",
+    "Describe a time when you received money as a gift\nYou should say:\nWhen it happened\nWho gave you money\nWhy he/she gave you money\nAnd explain how you used the money",
+    "Describe a time when you received something without having to pay for it\nYou should say:\nWhat the gift was\nWhen you got this gift\nWhere you had it\nAnd explain how you felt about it",
+    "Describe a time when you saw a lot of plastic waste (e.g. in a park, on the beach, etc.)\nYou should say:\nWhere and when you saw the plastic waste\nWhy there were a lot of plastic waste\nWhat you did after you saw it\nAnd explain what your thoughts were about this",
+    "Describe a time when you started using a new technological device (e.g. a new computer or phone).\nYou should say:\nWhat device you started using\nWhy you started using this device\nHow easy or difficult it was to use\nAnd explain how helpful this device was to you.",
+    "Describe a time when you started using a new technological device (e.g. a new computer or phone).\nYou should say:\nWhat device you started using\nWhy you started using this device\nHow easy or difficult it was to use\nAnd explain how helpful this device was to you.",
+    "Describe a time when you taught a friend/relative something\nYou should say:\nWho you taught\nWhat/how you taught\nWhat the result was\nAnd explain how you felt about the experience.",
+    "Describe a time when you visited a friend or family member at their workplace.\nYou should say:\nWho you visited\nWhere this person worked\nWhy you visited this person's workplace\nAnd explain how you felt about visiting this person's workplace.",
+    "Describe a time when you visited a friend or family member at their workplace.\nYou should say:\nWho you visited\nWhere this person worked\nWhy you visited this person's workplace\nAnd explain how you felt about visiting this person's workplace.",
+    "Describe a time when you waited for something special that would happen\nYou should say:\nWhat you waited for\nWhere you waited\nWhy it was special\nAnd explain how you felt while you were waiting",
+    "Describe a time when you were asked to give your opinion in a questionnaire or survey\nYou should say:\nWhat the questionnaire/survey was about\nWhy you were asked to give your opinions\nWhat opinions you gave\nAnd explain how you felt about giving your opinions in this questionnaire/survey.",
+    "Describe a time when you were asked to give your opinion in a questionnaire or survey\nYou should say:\nWhat the questionnaire/survey was about\nWhy you were asked to give your opinions\nWhat opinions you gave\nAnd explain how you felt about giving your opinions in this questionnaire/survey.",
+    "Describe a time when you were preparing for a happy event\nYou should say:\nWhat the event was\nWhere you had it\nWho helped you to organize it\nAnd how you feel about it",
+    "Describe a time when you were stuck in a traffic jam.\nYou should say:\nWhen and where did it happen?\nHow long were you in the traffic jam?\nWhat did you do while waiting?\nAnd explain how you felt when you were in that traffic jam.",
+    "Describe a time you made a decision to wait for something\nYou should say:\nWhen it happened\nWhat you waited for\nWhy you made the decision\nAnd explain how you felt while waiting",
+    "Describe a time you received bad service in restaurants/shops\nYou should say:\nWhen it happened\nWhy you went there\nWhat happened in the restaurants/shops\nAnd explain why you think their service was bad.",
+    "Describe a time you received positive feedback\nYou should say:\nWhat you did\nWho gave you the feedback\nWhy he/she gave you the positive feedback\nAnd explain how you felt about it",
+    "Describe a time you travelled by public transport.\nYou should say:\n- what type of public transport you used\n- where you travelled from and to\n- what you did during the journey\nAnd explain how you felt about travelling in this way",
+    "Describe a time you travelled by public transport.\nYou should say:\nWhat type of public transport you used\nWhere you travelled from and to\nWhat you did during the journey\nAnd explain how you felt about travelling in this way",
+    "Describe a time you visited a new place\nYou should say:\nWhere the new place is\nWhen you went there\nWhy you went there\nAnd explain how you feel about the place",
+    "Describe a time you were friendly to someone you didn't like\nYou should say:\nWhen and where it happened\nWho he/she was\nWhy you didn't like this person\nAnd explain why you were friendly to him/her on that occasion",
+    "Describe a time you were very busy\nYou should say:\nWhen it happened\nWhere you were\nWhat you did\nAnd explain why you were busy",
+    "Describe a tourist attraction you enjoyed visiting.\nYou should say:\nWhat this tourist attraction is\nWhen and why you visited it\nWhat you did there\nAnd explain why you enjoyed visiting this tourist attraction.",
+    "Describe a tourist attraction you enjoyed visiting.\nYou should say:\nWhat this tourist attraction is\nWhen and why you visited it\nWhat you did there\nAnd explain why you enjoyed visiting this tourist attraction.",
+    "Describe a toy that you often played with as a child\nYou should say:\nWhat the toy was\nHow old you were when you had it\nWhether you played with the toy by yourself or with other kids\nAnd explain how you felt about this particular toy",
+    "Describe a traditional product in your country\nYou should say:\nWhat it is\nWhen you tried this product for the first time\nWhat it is made of\nAnd explain how you feel about it",
+    "Describe a trip that you plan to go in the near future.\nYou should say:\nWhere this place is\nWho you would like to go with\nWhat would you do there\nExplain why you would like to go there",
+    "Describe a typical day in your life when you were a child.\nYou should say\nWho was/were around you\nWhat you ate\nWhat took care of you\nAnd say what you most enjoyed doing in your childhood days.",
+    "Describe a typical day in your life when you were a child.\nYou should say\nWho was/were around you\nWhat you ate\nWhat took care of you\nAnd say what you most enjoyed doing in your childhood days.",
+    "Describe a typical day in your life when you were in your early teens.\nYou should say: what you did\nWho you spent time with\nHow you felt about the things you had to do and explain what was the best and worst part o' the day for you.",
+    "Describe a typical day in your life when you were in your early teens.\nYou should say: what you did\nWho you spent time with\nHow you felt about the things you had to do and explain what was the best and worst part o' the day for you.",
+    "Describe a useful skill you learned from an older person\nYou should say:\nWhat it is\nWhy the skill can be learned from older people\nHow you will learn the skill from older people\nAnd explain how you will feel if you master the skill",
+    "Describe a very difficult task that you succeeded in doing as part of your work or studies.\nYou should say:\nWhat task you did\nWhy this task was very difficult \nHow you worked on this task\nAnd explain how you felt when you had successfully completed this task.",
+    "Describe a very difficult task that you succeeded in doing as part of your work or studies.\nYou should say:\nWhat task you did\nWhy this task was very difficult \nHow you worked on this task\nAnd explain how you felt when you had successfully completed this task.",
+    "Describe a website that you bought something from.\nYou should say:\nWhat the website is\nWhat you bought from this website\nHow satisfied you were with what you bought\nAnd explain what you liked or disliked about using this website.",
+    "Describe a website that you bought something from.\nYou should say:\nWhat the website is\nWhat you bought from this website\nHow satisfied you were with what you bought\nAnd explain what you liked or disliked about using this website.",
+    "Describe a website you have bought something from.\nYou should say:\nWhat the website is\nWhat you bought from this website\nHow satisfied you were with what you bought\nAnd explain what you liked and disliked about using this website",
+    "Describe a website you have bought something from.\nYou should say:\nWhat the website is\nWhat you bought from this website\nHow satisfied you were with what you bought\nAnd explain what you liked and disliked about using this website",
+    "Describe a website you use regularly\nYou should say:\nWhat type of website it is\nHow you found out about it\nWhat it allows you to do\nAnd why you find it useful.",
+    "Describe a website you use that helps you a lot in your work or studies.\nYou should say:\nWhat the website is\nHow often you use the website\nWhat information the website gives you\nAnd explain how your work or studies would change if this website didn't exist.",
+    "Describe a website you use that helps you a lot in your work or studies.\nYou should say:\nWhat the website is\nHow often you use the website\nWhat information the website gives you\nAnd explain how your work or studies would change if this website didn't exist.",
+    "Describe a well-paid job you would like to do/you will be good at in the future.\nYou should say:\nWhat the job is\nWhat qualifications are required for this job\nHow this job is different than other jobs\nAnd explain why you would like to be good at this job.",
+    "Describe a well-paid job you would like to do/you will be good at in the future.\nYou should say:\nWhat the job is\nWhat qualifications are required for this job\nHow this job is different than other jobs\nAnd explain why you would like to be good at this job.",
+    "Describe a writer you would like to meet.\nYou should say:\nWho the writer is\nWhat you know about this writer already\nWhat you would like to find out about him/her\nAnd explain why you would like to meet this writer.\n ",
+    "Describe a writer you would like to meet.\nYou should say:\nWho the writer is\nWhat you know about this writer already\nWhat you would like to find out about him/her\nAnd explain why you would like to meet this writer.\n ",
+    "Describe an activity that made you feel tired\nYou should say:\nWhen it happened\nWhere it took place\nWhat the activity was\nAnd explain why it made you feel tired.",
+    "Describe an activity you usually do that wastes your time\nYou should say:\nWhat it is\nWhen you usually do it\nWhy you do it\nAnd explain why you think it wastes your time",
+    "Describe an advertisement you have seen but you did not like\nYou should say:\nWhere and when you saw it\nWhat the advertisement was for\nWhat you could see in the advertisement\nAnd explain why you did not like the advertisement.",
+    "Describe an ambition that you haven't achieved\nYou should say:\nWhat it is\nWhy you haven't achieved it\nWhat you did\nAnd how you felt about it",
+    "Describe an apartment or a house that you would like to live in near future\nYou should say:\nWhat it would look like\nHow big it would be\nWhere it would be located\nAnd explain how feel about this apartment or house",
+    "Describe an athlete that you admire\nYou should say:\nWho the person is\nWhat his/her achievement is\nWhy you admire him/her\nAnd explain how you feel about this person",
+    "Describe an enjoyable day spent in the countryside\nYou should say:\nWhen and where you went\nWho you went with\nWhat you did there\nAnd explain why you think it was enjoyable",
+    "Describe an enjoyable day spent in the countryside\n(you can use the sample answers below for the topic: \u201cdescribe an unforgettable experience you have had\u201d.)\nYou should say:\nWhen and where you went\nWho you went with\nWhat you did there\nAnd explain why you think it was enjoyable",
+    "Describe an exciting book you have read\nYou should say:\nWhen you read it\nWhat kind of book it is\nWhat it is about\nAnd explain why you think it is exciting",
+    "Describe an expensive item that you bought and regretted\nYou should say:\nWhat it was\nHow much you spent on it\nWhy you bought it\nAnd explain why you think you spent more than expected",
+    "Describe an idea you had for improving something at work or college.\nYou should say:\nWhen and where you had your idea\nWhat your idea was\nWho you told about your idea\nAnd explain why you thought your idea would make an improvement.",
+    "Describe an idea you had for improving something at work or college.\nYou should say:\nWhen and where you had your idea\nWhat your idea was\nWho you told about your idea\nAnd explain why you thought your idea would make an improvement.",
+    "Describe an important decision you had to make.\nYou should say:\nWhat you had to decide\nWhat or who helped you decide\nIf you made the right decision\nAnd explain why the decision was important.",
+    "Describe an important decision you had to make.\nYou should say:\nWhat you had to decide\nWhat or who helped you decide\nIf you made the right decision\nAnd explain why the decision was important.",
+    "Describe an important event you celebrated\nYou should say:\nWhat the event was\nWhen it happened\nWho attended the event and explain how you feel about the event",
+    "Describe an important river/lake in your country\nYou should say:\nWhere it is located\nHow big/long it is\nWhat it looks like\nAnd explain why it is important",
+    "Describe an important thing you learned (not at school or college)\nYou should say:\nWhat it was\nWhen you learned it\nHow you learned it\nAnd explain why it was important",
+    "Describe an impressive english lesson you had and enjoyed\nYou should say:\nWhat it was about\nWhen you had it\nWhat the teacher did\nAnh why you enjoyed the lesson",
+    "Describe an impressive work of art (such as a painting) you saw\nYou should say:\nWhere did you first see the artist\nWhat the painting is about\nWho the painter is\nAnd explain",
+    "Describe an interesting tv programme you watched about a science topic.\nYou should say:\nWhat science topic this tv programme was about\nWhen you saw this tv programme\nWhat you learnt from this tv programme about a science topic\nAnd explain why you found this tv programme interesting.",
+    "Describe an interesting tv programme you watched about a science topic.\nYou should say:\nWhat science topic this tv programme was about\nWhen you saw this tv programme\nWhat you learnt from this tv programme about a science topic\nAnd explain why you found this tv programme interesting.",
+    "Describe an interesting discussion that you had with friends\nYou should say:\nWho you spoke to\nWhere you were\nWhat the conversation was about\nAnd explain why you think it was interesting",
+    "Describe an interesting discussion you had about how you spend your money.\nYou should say:\nWho you had the discussion with\nWhy you discussed this topic\nWhat the result of the discussion was\nAnd explain why this discussion was interesting for you",
+    "Describe an interesting discussion you had about how you spend your money.\nYou should say:\nWho you had the discussion with\nWhy you discussed this topic\nWhat the result of the discussion was\nAnd explain why this discussion was interesting for you",
+    "Describe an interesting discussion you had as part of your work or studies.\nYou should say:\nWhat the subject of the discussion was\nWho you discussed the subject with\nWhat opinions were expressed\nAnd explain why you found the discussion interesting.",
+    "Describe an interesting discussion you had as part of your work or studies.\nYou should say:\nWhat the subject of the discussion was\nWho you discussed the subject with\nWhat opinions were expressed\nAnd explain why you found the discussion interesting.",
+    "Describe an interesting historic place.\nYou should say:\nWhat it is\nWhere it is located\nWhat you can see there now\nAnd explain why this place is interesting.",
+    "Describe an interesting historic place.\nYou should say:\nWhat it is\nWhere it is located\nWhat you can see there now\nAnd explain why this place is interesting.",
+    "Describe an interesting historic place.\nYou should say:\nWhat it is\nWhere it is located\nWhat you can see there now\nAnd explain why this place is interesting",
+    "Describe an interesting historic place.\nYou should say:\nWhat it is\nWhere it is located\nWhat you can see there now\nAnd explain why this place is interesting",
+    "Describe an interesting journey you have been on.\nYou should say:\nWhere you went\nHow you travelled there\nWho you went with\nAnd explain what was so memorable about the journey.",
+    "Describe an interesting journey you have been on.\nYou should say:\nWhere you went\nHow you travelled there\nWho you went with\nAnd explain what was so memorable about the journey.",
+    "Describe an interesting neighbour\nYou should say:\nWho he/she is\nHow you knew him/her\nWhat you do together\nAnd explain why he/she is interesting",
+    "Describe an interesting old person you met\nYou should say:\nWho this person is\nWhere/when you met this person\nWhat you did with this person\nAnd explain why you think this person is interesting.",
+    "Describe an interesting place that you have visited as a tourist.\nYou should say:\nWhere this place is\nWhy you went there\nWhat you did there\nAnd explain why you thought this place was so interesting.",
+    "Describe an interesting place that you have visited as a tourist.\nYou should say:\nWhere this place is\nWhy you went there\nWhat you did there\nAnd explain why you thought this place was so interesting.",
+    "Describe an interesting story that you heard or read about in the news.\nYou should say:\nWhen you heard or read about the story\nWhat the story was about\nWhy the story was in the news\nAnd explain why you thought the story was interesting.",
+    "Describe an invention that changed people's lives.\nYou should say:\nWhat it is\nWhat it does (or, how it is used)\nHow popular it is among people of different ages\nAnd explain why (or how) you think it changed people's lives.",
+    "Describe an invention that has changed the world in a positive way\nYou should say:\nWhat it is\nWhat benefits it has brought\nHow it influences people of different ages\nAnd explain how it changed people's lives",
+    "Describe an item of clothing that someone gave you\nYou should say:\nWhat the clothing was\nWho gave it to you\nWhen you got it\nAnd explain why this person gave you the clothing",
+    "Describe an object that you think is beautiful\nYou should say:\nWhat it is\nWhen you saw it\nWhat it looks like\nAnd explain why you think it is beautiful",
+    "Describe an occasion that you lost something\nYou should say:\nWhat you lost\nWhen and where you lost it\nWhat you did to find it\nAnd explain how you felt about it",
+    "Describe an occasion when you had to do something in a hurry.\nYou should say:\nWhat you had to do\nWhy you had to do this in a hurry\nHow well you did this\nAnd explain how you felt about having to do this in a hurry.",
+    "Describe an occasion when you had to do something in a hurry.\nYou should say:\nWhat you had to do\nWhy you had to do this in a hurry\nHow well you did this\nAnd explain how you felt about having to do this in a hurry.",
+    "Describe an occasion when you had to wait a long time for someone or something to arrive.\nYou should say:\nWho or what you were waiting for\nHow long you had to wait\nWhy you had to wait a long time\nAnd explain how you felt about waiting a long time.",
+    "Describe an occasion when you had to wait a long time for someone or something to arrive.\nYou should say:\nWho or what you were waiting for\nHow long you had to wait\nWhy you had to wait a long time\nAnd explain how you felt about waiting a long time.",
+    "Describe an occasion when you have to wait for a good thing to happen\nYou should say:\nWhat the thing is\nWhy did you wait so long\nAnd explain how you felt.",
+    "Describe an old person you admire.\nYou should say:\nWho this person is\nWhere did you meet with him\nWhat characteristics you most like on him \nWhy you admire this person",
+    "Describe an old person you admire.\nYou should say:\nWho this person is\nWhere did you meet with him\nWhat characteristics you most like on him \nWhy you admire this person",
+    "Describe an open-air or street market which you enjoyed visiting.\nYou should say:\nWhere the market is\nWhat the market sells\nHow big the market is and explain why you enjoyed visiting this market.",
+    "Describe an outdoor activity you did in a new place recently\nYou should say:\nWhere and when you went there\nWhat the activity was\nWhether you asked for help in the activity\nAnd explain why you attended the activity",
+    "Describe an unusual meal you had\nYou should say:\nWhen you had it\nWhere you had it\nWhom you had it with\nAnd explain why it was unusual.",
+    "Describe an unusual/ an unforgettable meal\nYou should say:\nWhen was it\nWhere you had the meal\nWhat happened during the meal\nAnd explain why it was unforgettable",
+    "Describe another city you would like to visit for a short time\nYou should say:\nWhere the city is\nWhy you want to go there\nWhom you will go there with\nWhat you will do there\nAnd explain why you would like to stay there for a short time.",
+    "Describe one of your possessions which you couldn't live without.\nYou should say:\nWhat it is\nWhy you first bought it / how you got it when and how often you use it\nAnd explain why it is so special.",
+    "Describe one of your possessions which you couldn't live without.\nYou should say:\nWhat it is\nWhy you first bought it / how you got it when and how often you use it\nAnd explain why it is so special.",
+    "Describe some technoloy (e.g an app, phone, software program) that you decided to stop using.\nYou should say:\nWhen and where you got this technology\nWhy you started using this technology\nWhy you decided to stop using it\nAnd explain how you feel about the decision you made.",
+    "Describe some technoloy (e.g an app, phone, software program) that you decided to stop using.\nYou should say:\nWhen and where you got this technology\nWhy you started using this technology\nWhy you decided to stop using it\nAnd explain how you feel about the decision you made.",
+    "Describe someone who influenced you when you were a child.\nYou should say:\nWho the person was\nWhat kind of person he/she was what your relationship was like\nAnd explain how he/she influenced you.",
+    "Describe someone who influenced you when you were a child.\nYou should say:\nWho the person was\nWhat kind of person he/she was what your relationship was like\nAnd explain how he/she influenced you.",
+    "Describe someone you don't know but would like to know more about\nYou should say:\nWho this person is\nWhat interesting things he/she has done\nWhy you",
+    "Describe someone you know who does something well.\nYou should say:\nWho this person is\nHow you know this person\nWhat they do well\nAnd explain why you think this person is so good at doing this.",
+    "Describe someone you know who does something well.\nYou should say:\nWho this person is\nHow you know this person\nWhat they do well\nAnd explain why you think this person is so good at doing this.",
+    "Describe someone you know who has started a business.\nYou should say:\nWho this person is\nWhat work this person does\nWhy this person decided to start a business\nAnd explain whether you would like to do the same kind of work as this person.",
+    "Describe someone you know who has started a business.\nYou should say:\nWho this person is\nWhat work this person does\nWhy this person decided to start a business\nAnd explain whether you would like to do the same kind of work as this person.",
+    "Describe something important to you that your family has had for a long time\nYou should say:\nWhat it is\nWhen your family had it\nHow your family got it\nAnd explain why it is important for your family",
+    "Describe something that surprised you\nYou should say:\nWhat it is\nHow you found out about it\nWhat you did and explain whether it made you happy",
+    "Describe something that you did with someone or a group of people\nYou should say:\nWhat it was\nWho you did it with\nHow long it took you to do this\nAnd explain why you did it together.",
+    "Describe something you did that helped you to learn another language\nYou should say:\nWhat it is\nWhat language you learned\nHow it helped you learn the language\nAnd how you felt about it.",
+    "Describe something you did that made you feel proud\nYou should say:\nWhat it was\nHow you did it\nHow difficult it was\nAnd explain why you felt proud of it",
+    "Describe something you did that was new or exciting.\nYou should say:\nWhat you did\nWhere and when you did this\nWho you shared the activity with\nAnd explain why this activity was new or exciting for you.",
+    "Describe something you did that was new or exciting.\nYou should say:\nWhat you did\nWhere and when you did this\nWho you shared the activity with\nAnd explain why this activity was new or exciting for you.",
+    "Describe something you do that can help you concentrate on work/study\nYou should say:\nWhat it is\nHow it helps you concentrate\nWhen you do it\nAnd explain how you feel about it",
+    "Describe something you do to keep fit and healthy\nYou should say:\nWhat it is\nWhen you do it\nWho you do it with\nAnd explain why you think this method is important",
+    "Describe something you do to keep healthy.\nYou should say:\nWhat this activity is\nWhen you do it\nAnd how often you do it\nAnd explain why you think it's a good way to look after your health.",
+    "Describe something you do to keep healthy.\nYou should say:\nWhat this activity is\nWhen you do it\nAnd how often you do it\nAnd explain why you think it\u2019s a good way to look after your health.",
+    "Describe something you don't have now but would really like to own in the future.\nYou should say:\nWhat this thing is\nHow long you have wanted to own it\nWhere you first say it\nAnd explain why you would like to own it",
+    "Describe something you liked very much which you bought for your home.\nYou should say:\nWhat you bought\nWhen and where you bought it\nWhy you chose this particular thing\nAnd explain why you liked it so much.",
+    "Describe something you liked very much which you bought for your home.\nYou should say:\nWhat you bought\nWhen and where you bought it\nWhy you chose this particular thing\nAnd explain why you liked it so much.",
+    "Describe something you own which is very important to you.\nYou should say:\n-where you got it from\n-how long you have had it\n-what you use it for; and explain why it is important to you.",
+    "Describe something you think it would be interesting to learn more about\nYou should say:\nWhat it is\nHow you would learn it more\nWhere you can learn it more\nAnd explain why you want to keep learning it",
+    "Describe something you would like to learn in the future\nYou should say:\nWhat it is\nHow you would like to learn it\nWhy you would like to learn it\nAnd explain whether it's difficult to learn it.",
+    "Describe the job you would most like to have.\nYou should say:\nWhat this job would be\nWhere you would work\nWhich qualifications you would need\nAnd explain why you would like to have this job most.",
+    "Describe the job you would most like to have.\nYou should say:\nWhat this job would be\nWhere you would work\nWhich qualifications you would need\nAnd explain why you would like to have this job most.",
+    "Describe the neighbourhood you lived in when you were a child.\nYou should say:\nWhere in your town/city the neighbourhood was\nWhat kind of people lived there\nWhat it was like to live in this neighbourhood\nAnd explain whether you would like to live in this neighbourhood in the future.",
+    "Describe the neighbourhood you lived in when you were a child.\nYou should say:\nWhere in your town/city the neighbourhood was\nWhat kind of people lived there\nWhat it was like to live in this neighbourhood\nAnd explain whether you would like to live in this neighbourhood in the future.",
+    "Describe the sport that you most like watching\nYou should say:\nWhat sport you most like watching where you watch this sport\nWhen you last watched this sport\nAnd explain why you like watching this sport so much",
+    "Describe the sport that you most like watching\nYou should say:\nWhat sport you most like watching where you watch this sport\nWhen you last watched this sport\nAnd explain why you like watching this sport so much",
+    "Describe the type of clothes that you usually (like to) wear.\nYou should say:\nWhat type (or style) of clothes\nWhere you usually buy these clothes\nHow often you buy them\nHow you choose what to buy\nAnd explain why you like this style of clothes.",
+    "Describe your favorite film\nYou should say:\nWhen and where you saw it\nWhat type of film it was\nWhat the film was about\nAnd explain why it is your favorite film",
+    "Describe your favourite famous person\nYou should say:\nWho this person is.\nHow you know about this person.\nWhat this person is famous for.\nAnd explain why you are interested in this person.",
+    "Describe your favourite item of clothing\nYou should say:\nWhat the item of clothing is\nWhat it looks like\nWhen and where you got this item of clothing\nAnd explain why this is your favourite item of clothing.",
+    "Describe your favourite item of clothing\nYou should say:\nWhat the item of clothing is\nWhat it looks like\nWhen and where you got this item of clothing\nAnd explain why this is your favourite item of clothing.",
+    "Describe your first day at school that you remember\nYou should say:\nWhere the school was\nHow you went there\nWhat happened that day\nAnd how you felt on that day.",
+    "Describe your idea of making a good first impression in a job interview.\nYou should say:\nWhy it is important.\nIs it important to make a good last impression as well\nWhat ways would you do it in your job interview\nAnd explain how to make a good first impression in a job interview.",
+    "Describe your idea of making a good first impression in a job interview.\nYou should say:\nWhy it is important.\nIs it important to make a good last impression as well\nWhat ways would you do it in your job interview\nAnd explain how to make a good first impression in a job interview.",
+    "Talk about a place where lots of people came together.\nYou should say:\nWhat is this place?\nWhen did you last go to such a place?\nDid you enjoy it?",
+    "Talk about an unusual food you have eaten.\nYou should say:\nWhat was the food?\nWhere and when did you try it?\nDid you like or dislike that food?",
+    "Which program on tv or radio do you often listen to?\nYou should say:\nWhat is it?\nWhat is that about?\nWhy you listen it?\nAnd say what you think could be improved about its output"
+  ],
+  "part3": [
+    [
+      "What makes a good actor/actress?",
+      "Is being a professional actor or actress a good career?",
+      "Are actors and actresses very interested in their work?",
+      "What can children learn from acting?",
+      "What are the differences between actors who earn much and those who earn little?",
+      "What are the differences between acting in a theater and in a film?"
+    ],
+    [
+      "What kinds of live entertainment are popular in your country?",
+      "Are there a lot of places in your country for young people to go out?",
+      "What places would you recommend a tourist go to for entertainment in your country?"
+    ],
+    [
+      "How do people build relationships with others?",
+      "Are there any differences in relationships between different people?",
+      "Do people feel lonely in crowded cities?",
+      "Where and how can people get to know new people?"
+    ],
+    [
+      "Can clothing reveal a person's personality?",
+      "Why do individuals from the same family have different personalities?",
+      "How does society influence a person's personality?"
+    ],
+    [
+      "Do you read regularly?",
+      "Are there any jobs where people need to read a lot?",
+      "Are there any occasions when reading at speed is a useful skill?",
+      "Do you think reading novels is more interesting than reading factual books?"
+    ],
+    [
+      "Do people in your area grow their own vegetables?",
+      "Are there many people growing vegetables nowadays?",
+      "Do you think it's good to teach children how to plant?",
+      "What do you think of farming as a career?",
+      "What are the differences between traditional and modern agriculture?",
+      "What happened to farmers' income during the pandemic?",
+      "How do people grow plants in cities?"
+    ],
+    [
+      "Is your neighborhood noisy or quiet?",
+      "Are there many quiet places in your city?",
+      "Why do people sometimes prefer to be alone?",
+      "Does noise affect you in any way?",
+      "How do you think noise in cities could be reduced?"
+    ],
+    [
+      "What is the traffic like in Vietnamese cities?",
+      "Are traffic jams common?",
+      "Why are cities today facing serious traffic issues?",
+      "What can be done to improve traffic conditions?",
+      "Can developing public transport help resolve traffic issues in cities?"
+    ],
+    [
+      "Are you usually on time for appointments?",
+      "Do you think it is important to be punctual?",
+      "Do you always avoid being late?",
+      "Why are people often late for meetings or appointments?",
+      "Why do people miss important events?",
+      "Are people in your country often late for meetings?"
+    ],
+    [
+      "Do you have a busy schedule?",
+      "Are you often busy?",
+      "What are the advantages and disadvantages of keeping busy?",
+      "Do you think children should learn through playing games or under pressure?",
+      "What kind of pressure may people experience at work?"
+    ],
+    [
+      "Do you know your neighbors well?",
+      "What practical things can people do to help their neighbors?",
+      "Why should neighbors help each other?",
+      "Do people in small towns help each other more than people in cities?"
+    ],
+    [
+      "What jobs involve helping other people?",
+      "What qualities do people need to work in jobs helping others?",
+      "Do you think salaries for jobs helping people are generally too low?"
+    ],
+    [
+      "What are some important inventions in human history?",
+      "What makes an invention useful?",
+      "What new inventions would you like to see in the future?",
+      "What are some common inventions used in homes?",
+      "Do you think household inventions make people lazy?",
+      "What technology is commonly used in school classrooms?",
+      "What new health-related technology might appear in the future?"
+    ],
+    [
+      "What do you consider to be a healthy diet?",
+      "Are there many vegetarians in your country?",
+      "Why do some people choose to be vegetarians?",
+      "Has food changed compared to what people ate in the past?",
+      "Is fast food popular in your country?",
+      "Why are more people becoming overweight nowadays?",
+      "Do people in your country prefer eating at home or eating out?",
+      "How important is it for families to eat together?",
+      "Why do some people not eat with their family?"
+    ],
+    [
+      "Are you interested in science?",
+      "What made you interested in science?",
+      "Why do some children dislike studying science in school?",
+      "Is it important to study science in school?",
+      "Which science subject is most important for children to study?",
+      "Should people continue studying science after graduation?",
+      "How do you stay updated about scientific research news?"
+    ],
+    [
+      "Do you take photos?",
+      "Do Vietnamese people like to take photos of themselves?",
+      "What kinds of devices do people like to use for taking photos these days?",
+      "How often do young people take photos when travelling?"
+    ],
+    [
+      "Do you think children learn differently from adults?",
+      "Do children learn much faster than adults?",
+      "Why should we learn something we are interested in?",
+      "What are the differences between hard work and smart work?"
+    ],
+    [
+      "Have you ever changed schools?",
+      "Do children like to change schools when they are young?",
+      "What is the positive impact of changing schools at an early age on children?",
+      "What is the negative impact of changing schools at an early age on children?",
+      "What do children learn in their new school?",
+      "Do children generally like change?"
+    ],
+    [
+      "How do you feel about major life changes?",
+      "How do people face big changes and what preparations do they make?",
+      "Do you like new things or changes in life?",
+      "When things like getting married or moving home happen, what kinds of things would you consider?"
+    ],
+    [
+      "Do you think encouragement is important?",
+      "Do children need encouragement as they grow up?",
+      "Which kind of feedback do people tend to believe, positive or negative feedback?",
+      "Do you think positive feedback is more useful than negative feedback?",
+      "Should bosses give positive feedback to employees?"
+    ],
+    [
+      "Do you think public recognition matters?",
+      "Do you think public recognition is important for people nowadays?",
+      "Do you think those who have received public recognition should take on more social responsibilities?"
+    ],
+    [
+      "Do children have too many toys nowadays?",
+      "Do parents give their children toys instead of paying attention to them?",
+      "Is it the responsibility of parents or schools to teach children how to behave well?",
+      "Do children learn better if they have fun at school or if the teachers are strict?"
+    ],
+    [
+      "How are children raised in different parts of the world?",
+      "Do you think attitudes towards bringing up children differ in different parts of the world?",
+      "Does respect for older people vary in different countries?"
+    ],
+    [
+      "Do you drink coffee?",
+      "Do old people like to drink coffee?",
+      "Do Vietnamese people like to drink coffee?",
+      "What kind of people would like to go to cafes?",
+      "Why do young people like studying in a cafe instead of at home?"
+    ],
+    [
+      "Do you go to markets?",
+      "Do people in your country enjoy going to open-air markets that sell food, clothes or old objects?",
+      "Which type of market is more popular?",
+      "Do you think markets are more suitable places for selling certain types of things?",
+      "Do you think young people feel the same about shopping at markets as older people?",
+      "What are the advantages of buying things from shops rather than markets?"
+    ],
+    [
+      "How does advertising affect shopping?",
+      "How does advertising influence what people choose to buy?",
+      "Is advertising equally effective for everyone?",
+      "Have recent changes in lifestyle affected shopping habits?"
+    ],
+    [
+      "Do you keep mementos or souvenirs?",
+      "Do people like things of memorial significance?",
+      "Which can help people remember things better, words or photos?",
+      "Can technology help people remember things better?",
+      "How does technology help people remember things?"
+    ],
+    [
+      "What do you do in your leisure time?",
+      "Do people like to spend their leisure time out in your country?",
+      "How do people spend their leisure time in your country?",
+      "How does technology affect the way people spend their leisure time?",
+      "Do you think only old people have time for leisure?"
+    ],
+    [
+      "How many hours do you work per week?",
+      "Do you agree that many people nowadays are under pressure to work longer hours and take less holiday?",
+      "What is the impact on society of people having a poor work-life balance?",
+      "What strategies could governments and employers use to ensure people have a good work-life balance?"
+    ],
+    [
+      "What do you think about beauty products?",
+      "Do you agree that most beauty products are a waste of money?",
+      "How does the beauty industry advertise its products so successfully?",
+      "Should beauty products be advertised to children?",
+      "Why do many people equate youth with beauty?",
+      "Do you think that being beautiful could affect a person's success in life?",
+      "Why might society's ideas about beauty change over time?"
+    ],
+    [
+      "Do you shop online?",
+      "Should prices be lower on internet shopping sites than in physical shops?",
+      "Will large shopping malls continue to be popular despite the growth of internet shopping?",
+      "Do you think some businesses will only operate online in the future?"
+    ],
+    [
+      "Do you enjoy giving and receiving gifts?",
+      "Who usually gives you gifts?",
+      "Who do you give gifts to?",
+      "When do people usually give gifts in your country?",
+      "What kinds of gifts do people give?",
+      "Have gift-giving customs changed compared to the past?",
+      "How do you think gift-giving will change in the future?"
+    ],
+    [
+      "Do you generally read a lot of books or do you prefer watching TV?",
+      "What kind of books are considered good reads in your opinion?",
+      "Do you think that people read nowadays as they did in the past?",
+      "Do you regard famous writers as good role models?",
+      "If a movie is based on a book, would you prefer to read the book or to watch the film?",
+      "How do our reading habits change as we grow up? Why does it happen?"
+    ],
+    [
+      "Do you have any foreign friends?",
+      "Do you think having foreign friends is a good way to know other countries?",
+      "Do you think it's important to know the culture and language before going to another country?",
+      "What do you think of people who work in international companies?",
+      "What abilities do people need to have when working in an international company?"
+    ],
+    [
+      "Do you have any hobbies?",
+      "What are some of your hobbies?",
+      "When did you first develop this hobby?",
+      "What are some of the advantages of having a hobby?",
+      "How much time do you spend on your hobby?"
+    ],
+    [
+      "Do you know anyone who likes to get up early?",
+      "Why do people get up early?",
+      "What kinds of occasions need people to arrive early?",
+      "Why do some people like to stay up late?"
+    ],
+    [
+      "Do you like giving gifts?",
+      "What gifts would parents give to children?",
+      "What factors do parents consider when choosing a gift for children?",
+      "What kinds of free gifts do people give?",
+      "Why do people feel happy when they receive free gifts?",
+      "Do you think our government should provide free gifts for our citizens?"
+    ],
+    [
+      "Do you like to celebrate important events?",
+      "What kinds of events do people usually celebrate?",
+      "Do people often celebrate events with a large group of people or just a few people?",
+      "Do people often celebrate festivals with families?"
+    ],
+    [
+      "Do you often buy more than you expected?",
+      "What do you think young people spend most of their money on?",
+      "Do you think it is important to save money?",
+      "Do people buy things they don't need?"
+    ],
+    [
+      "Do you often help kids? How?",
+      "Why is it necessary to do volunteer services?",
+      "What can schools do to develop students' awareness of volunteering?",
+      "Who benefits more from the volunteer services, the volunteers or the people helped?"
+    ],
+    [
+      "Do you prefer books or movies?",
+      "Is it necessary for parents to read stories for their children?",
+      "Which group would read more, young people or old people?",
+      "What's the difference between men's and women's reading habits?"
+    ],
+    [
+      "Do you think children are born smart or they learn to become smart?",
+      "How do children become smart at school?",
+      "Why are some people well-rounded and others only good at one thing?",
+      "Why does modern society need talents of all kinds?"
+    ],
+    [
+      "Do you think hotel work is a good career for life?",
+      "How does working in a big hotel compare with working in a small hotel?",
+      "What skills are needed to be a successful hotel manager?"
+    ],
+    [
+      "Do you think it is better to live in the countryside or in the city?",
+      "What are some of the challenges facing towns and cities?",
+      "What are the advantages of living in the countryside?",
+      "Do you think that people should have permission to build houses in the countryside?"
+    ],
+    [
+      "Do you think it is easy for famous people to earn a lot of money?",
+      "Why might famous people enjoy having fans?",
+      "In what ways could famous people use their influence to do good things in the world?"
+    ],
+    [
+      "Do you think it is good for children to make noise?",
+      "Should children not be allowed to make noise under any circumstances?",
+      "What kinds of noises are there in our life?",
+      "Which area is exposed to noise more, the city or the countryside?",
+      "How would people usually respond to noises in your country?",
+      "How can people consider others' feelings when chatting in public?"
+    ],
+    [
+      "Do you think it is possible to be friends with someone if you never meet them in person?",
+      "Is this real friendship?",
+      "What kind of influence can friends have on our lives?",
+      "How important would you say it is to have friends from different cultures?"
+    ],
+    [
+      "Do you think it is true that in today's society money cannot buy happiness?",
+      "What disadvantages are there in a society where the gap between the rich and poor is very large?",
+      "Do you think richer countries have a responsibility to help poorer countries?"
+    ],
+    [
+      "Do you think it would be a good idea for schools to ask students their opinions about lessons?",
+      "What would the advantages for schools be if they asked students their opinions?",
+      "Would there be any disadvantages in asking students' opinions?"
+    ],
+    [
+      "Do you think it's OK to arrive late when meeting a friend?",
+      "What should happen to people who arrive late for work?",
+      "Can you suggest how people can make sure they don't arrive late?"
+    ],
+    [
+      "Is it better to study for long periods or in shorter blocks of time?",
+      "What are the likely effects of students not managing their study time well?",
+      "How important is it for students to have enough leisure time?"
+    ],
+    [
+      "How do you usually make decisions?",
+      "Do you think it's harder to make decisions nowadays because we have so many choices?",
+      "What are the disadvantages of asking for other people's advice when making a decision?",
+      "Why do you think some people are better at making decisions than others?",
+      "Do you think children should be given the opportunity to make their own decisions?",
+      "What kind of decisions should children be allowed to make?",
+      "Do you agree that we only learn by making mistakes?"
+    ],
+    [
+      "Do you like taking photos?",
+      "Do you think it's important to be a professional photographer?",
+      "Do you think people take more photos now than in the past?",
+      "Is equipment important to photography?",
+      "Do you think being a professional videographer is a good job?",
+      "Why do some people like to post their photos on social media?"
+    ],
+    [
+      "Do older and younger people share common interests?",
+      "What can old people teach young people?",
+      "Is it easy for young people and old people to make friends with each other?",
+      "Are there benefits when one person is interested in another person?",
+      "Do you think people are more selfish or self-centered now than in the past?",
+      "What benefits can people get if they are self-centered?"
+    ],
+    [
+      "Do you use social media?",
+      "Do you think older people and younger people use the same kind of social media?",
+      "Do older people spend much time on social media?"
+    ],
+    [
+      "Do you like shopping?",
+      "Do you think online shopping will replace in-store shopping in the future?",
+      "Why is fashion very important to some people?",
+      "Are older people as fashionable as young people?",
+      "Are women more fashionable than men?",
+      "What kinds of people need to know fashion well?",
+      "Does being fashionable mean spending more money on clothes?"
+    ],
+    [
+      "Do you know your neighbors well?",
+      "Do you think people are familiar with their neighbours?",
+      "How can people improve relationships with neighbours in a community?",
+      "How do children build relationships with others in a community?",
+      "Is it beneficial to get along well with neighbours?"
+    ],
+    [
+      "Do you spend money on things you don't need?",
+      "Do you think some people spend too much money on unnecessary things?",
+      "Is it worth trying to repair broken things rather than throwing them away?",
+      "Do you think people need to have lots of hi-tech gadgets these days?",
+      "Do you think technology has made our lives easier or more stressful?",
+      "Do you think it matters if people aren't interested in keeping up with new technology?"
+    ],
+    [
+      "Do you cook your own meals?",
+      "Do you think that people eat healthier food than they did in the past?",
+      "How important do you think it is for families to eat meals together?",
+      "What effects has modern technology had on the food we eat?"
+    ],
+    [
+      "Do you like going to restaurants?",
+      "Why do people go to restaurants for celebrations?",
+      "Do you think food prepared at home is always better than in restaurants?",
+      "Which are more popular in your country: fast food restaurants or traditional restaurants?"
+    ],
+    [
+      "Do you like watching movies?",
+      "Do you think cinema has increased or decreased in popularity in recent years?",
+      "Will this trend continue in the future?",
+      "What are the advantages and disadvantages of making films about real-life events?",
+      "How important is it for filmmakers to remain true to the original story?",
+      "Should films and television be censored?",
+      "How do you think censorship laws will change in the next 20 years?"
+    ],
+    [
+      "What do you find beautiful?",
+      "Do you think there are more beautiful things now than in the past?",
+      "What beautiful scenery spots are there in your country?",
+      "Where do people usually come into contact with beautiful things?",
+      "Why do you think people create beautiful things?",
+      "Do people in your country prefer listening to music to appreciating paintings and literature?",
+      "Why do many people visit scenic spots in person instead of just reading about them?"
+    ],
+    [
+      "What food is available in shops today?",
+      "Do you think there will be more or less food choices in shops in the future?",
+      "What effects has modern technology had on food production?",
+      "How important is it for a country to be self-sufficient in food production?"
+    ],
+    [
+      "What is your preferred mode of transport?",
+      "Do you think too many people depend on cars for transport?",
+      "Why do people prefer to travel by car?",
+      "How could we change people's preference for cars?",
+      "How could public transport systems be improved?",
+      "How can air travel be reduced worldwide?",
+      "How do you think people will travel in the future?"
+    ],
+    [
+      "Do you use plastic products?",
+      "Do you think we should use plastic products?",
+      "How can we reduce our use of plastic?",
+      "What kinds of plastic waste are common in your country?",
+      "Why do people like to use plastic products?",
+      "What can the government do to reduce plastic pollution?",
+      "Do you think we can live without plastic in the future?"
+    ],
+    [
+      "Are you a creative person?",
+      "Do you think you are creative?",
+      "Is it good for children to learn arts?",
+      "What kinds of jobs need creative ability?",
+      "Do you think leaders need to be creative?"
+    ],
+    [
+      "Do you travel often?",
+      "What kind of places do you like to travel to?",
+      "Do people have different personalities in different regions of your country?",
+      "What causes the differences between different regions of your country?",
+      "Do young people try new things more often than older people?",
+      "Is a popular tourist destination also a good place to live?",
+      "Why do some people prefer living in small towns over big cities?"
+    ],
+    [
+      "Do you read or tell stories?",
+      "Do young children prefer different types of stories than older children?",
+      "How has technology changed the way we tell stories?",
+      "What makes a good story for children?"
+    ],
+    [
+      "Do you play any sports?",
+      "Do young people in your country like to do sports?",
+      "What are the benefits of sports for children?",
+      "Is it necessary to build public sports facilities?",
+      "What do you think about companies donating sports venues for underprivileged children?",
+      "How does technology help people do sports?",
+      "Can local sports teams help strengthen community connections?"
+    ],
+    [
+      "Do you visit parks?",
+      "Do young people like going to parks?",
+      "What activities do elderly people enjoy doing in parks?",
+      "What are the benefits of parks for people of different ages?",
+      "Why do some people enjoy planting flowers in parks?"
+    ],
+    [
+      "Do you learn about history?",
+      "Do your parents think learning history is important?",
+      "What are the benefits of having museums?",
+      "Are museums free to visit in your country?",
+      "Which is better for learning history - reading books or visiting museums?",
+      "Do all major cities in your country have museums?"
+    ],
+    [
+      "Do you like shopping for clothes?",
+      "Why do some people dislike shopping for clothes?",
+      "Are there differences between how men and women shop for clothes?",
+      "Do you think it's important to follow current fashion trends?",
+      "Why do many young people care about wearing fashionable clothes?",
+      "Are there negative effects of pressure to wear fashionable clothes?",
+      "Do you think uniforms are good for students?",
+      "What is the purpose of wearing uniforms?",
+      "Should students help design their school uniforms?",
+      "How important is the clothing industry in your country?",
+      "What impact does the fashion industry have on people?",
+      "How does the fashion industry affect your country's economy?"
+    ],
+    [
+      "Do you often feel tired?",
+      "When do people usually feel tired?",
+      "How does tiredness from studying compare to tiredness from exercise?",
+      "Why do elderly people get tired more easily?",
+      "How can elderly people manage their energy levels better?"
+    ],
+    [
+      "Do you cook?",
+      "Have you ever cooked for other people?",
+      "What preparations are needed before cooking?",
+      "Is food important in Vietnamese festivals?",
+      "What dishes must be served at festivals?",
+      "Should cooking be a required course in schools?",
+      "How has cooking changed compared to the past?"
+    ],
+    [
+      "Do you give clothes to others?",
+      "Why do people dress casually daily but formally at work?",
+      "Why do different countries have different traditional clothing?",
+      "What are the advantages of wearing uniforms at work and school?",
+      "What are the disadvantages of wearing uniforms at work and school?"
+    ],
+    [
+      "Do you think tourism affects the environment?",
+      "How can large numbers of tourists impact the environment?",
+      "What solutions could reduce the negative effects of mass tourism?",
+      "Should tourist numbers be limited in certain places?"
+    ],
+    [
+      "Are you an organized person?",
+      "How can parents help children become organized?",
+      "In what situations is being organized especially important?",
+      "What are the benefits of being well-organized?"
+    ],
+    [
+      "How do you search for information?",
+      "What information sources do you use?",
+      "What kind of information can people get from television?",
+      "Are libraries still important in the digital age?",
+      "How has the Internet helped disadvantaged people access information?",
+      "How do people determine if online information is reliable?",
+      "Should people have more access to information in the future?"
+    ],
+    [
+      "Are there any important rivers or lakes near where you live?",
+      "How do rivers and lakes benefit local people?",
+      "Do rivers and lakes attract tourists to an area?",
+      "How do rivers and lakes affect local tourism?",
+      "Are rivers and lakes useful for transportation?"
+    ],
+    [
+      "How difficult is it to become very rich in today's world?",
+      "Do you agree that money does not necessarily bring happiness?",
+      "In what ways might rich people use their money to help society?"
+    ],
+    [
+      "How do children and old people keep fit and healthy?",
+      "What do people normally do to keep fit and healthy in your country?",
+      "How can parents help and guide their kids to keep healthy?",
+      "Do you think it is a good way for governments to use the power of idols to help people to build health awareness?"
+    ],
+    [
+      "How do most people get their news in your country?",
+      "How do you think people will get their news in the future?",
+      "Do you believe everything you read in the newspapers?",
+      "How has TV changed people's lives?",
+      "What do you think of children watching TV?",
+      "How has social media changed the way we get and share the news?"
+    ],
+    [
+      "Do you often feel happy?",
+      "How do people express happiness in your culture?",
+      "Do you think happiness has any effect on people?",
+      "How can people be happy?",
+      "Is it good for people to be unhappy?"
+    ],
+    [
+      "Are there historic buildings in your country?",
+      "How do people in your country feel about protecting historic buildings?",
+      "Do you think an area can benefit from having an interesting historic place locally?",
+      "What do you think will happen to historic places or buildings in the future?"
+    ],
+    [
+      "How did you learn history in school?",
+      "How were you taught history when you were at school?",
+      "Are there other ways people can learn about history, apart from at school?",
+      "Do you think history will still be a school subject in the future?"
+    ],
+    [
+      "Do you own electronic equipment?",
+      "How do people learn to use electronic equipment?",
+      "Why do some people have trouble solving technical problems?",
+      "Should students be allowed to use computers at school?"
+    ],
+    [
+      "Do you spend a lot of time using technology?",
+      "Why do teenagers spend a lot of time on their screens?",
+      "Do you think teenagers can live without technology?",
+      "Do you think computers make our life simpler or more complex?"
+    ],
+    [
+      "How do you usually make friends?",
+      "How do people make friends in Vietnam?",
+      "On what occasions do people like to make friends?",
+      "Is it important to have the same hobbies and interests when making friends?",
+      "What qualities make true friends?"
+    ],
+    [
+      "Do you have trouble remembering appointments?",
+      "How do busy people remember things they need to do?",
+      "Do you think people should remember family history?",
+      "What do you think is a good way to record things?",
+      "Is punctuality important to people?"
+    ],
+    [
+      "Are you busy with work?",
+      "How do you balance life and work?",
+      "What kinds of things make people feel pressured?",
+      "Why do some people refuse to follow rules?"
+    ],
+    [
+      "Do you watch television advertising?",
+      "How do you feel about the amount of advertising on television?",
+      "In what ways has television advertising changed in the last ten years?",
+      "To what extent are people influenced by television advertising?"
+    ],
+    [
+      "Do you go to the cinema?",
+      "Why do people still enjoy going to the cinema to watch films?",
+      "What sort of influence can films have on people?",
+      "Should filmmakers be responsible for the impact their films have on people?"
+    ],
+    [
+      "Do you know your neighbors?",
+      "How do you get along with your neighbors?",
+      "How do neighbors help each other?",
+      "How do children learn to cooperate with neighbors?"
+    ],
+    [
+      "What do you think about artificial intelligence?",
+      "How do you think AI will affect people's work?",
+      "Do you think technology will cause some people to lose their jobs?",
+      "Is it common in your country for people to move cities because of work?"
+    ],
+    [
+      "Have you studied overseas?",
+      "How do you think studying overseas differs from studying in your own country?",
+      "What problems do students face when studying abroad?",
+      "Do you think adapting to a new culture is difficult?",
+      "How can an overseas degree improve professional skills?"
+    ],
+    [
+      "Do you read books?",
+      "Do you prefer to read e-books or printed books?",
+      "Why are mystery novels popular nowadays?",
+      "What kind of novels are suitable for film adaptation?",
+      "Why do some people prefer reading novels to playing computer games?"
+    ],
+    [
+      "What type of housing do people prefer in your country?",
+      "How easy is it to find a place to live in your country?",
+      "Do you think it's better to rent or to buy a place to live?",
+      "At what age should young adults stop living with their parents?"
+    ],
+    [
+      "How easy is it to travel around your country?",
+      "Which method of travel do you consider safest?",
+      "Has travel become safer in recent years?",
+      "What are the advantages and disadvantages of low-cost air travel?",
+      "How do you think people will travel in the future?",
+      "Should governments focus more on rail transport or road transport?"
+    ],
+    [
+      "Do you drive?",
+      "How interested are young people in your country in learning to drive?",
+      "What are the differences between driving in the countryside and driving in the city?",
+      "Do you consider most drivers where you live to be good drivers?",
+      "How popular are electric cars in your country?",
+      "In what ways could more people be persuaded to buy electric cars?",
+      "Do you think all cars will be electric one day?"
+    ],
+    [
+      "Do you use technology to communicate?",
+      "How much has technology improved how we communicate with each other?",
+      "Do you agree that there are still many more major technological innovations to be made?",
+      "Why do some people decide to reduce their use of technology?"
+    ],
+    [
+      "Do you spend a lot of time with your parents?",
+      "How much time do children spend with their parents in your country?",
+      "Do you think children spend enough time with their parents?",
+      "How important is spending time together for relationships between parents and children?",
+      "Have relationships between parents and children changed in recent years?",
+      "Why have parent-child relationships changed?"
+    ],
+    [
+      "What activities do children do in their free time today?",
+      "Are these free-time activities good for children's development?",
+      "How do you think children's activities will change in the future?",
+      "Will these changes be positive?"
+    ],
+    [
+      "Do you read e-books?",
+      "How popular are electronic books in your country?",
+      "What are the advantages of parents reading electronic books compared to printed books?",
+      "Will electronic books ever completely replace printed books in the future?"
+    ],
+    [
+      "Have you ever been a tourist in another country?",
+      "How should tourists behave when they are in a different country?",
+      "What can local people do to help tourists enjoy their visit?",
+      "What can tourists learn from visiting new places?"
+    ],
+    [
+      "Do people in Vietnam complain often?",
+      "What do people in Vietnam complain most about?",
+      "Do young or old people complain more?",
+      "Is it important for companies to deal with customer complaints?",
+      "Can children learn how to complain appropriately?",
+      "Why do some people complain more than others?"
+    ],
+    [
+      "What happens after students leave school?",
+      "What opportunities are available to students after they leave school?",
+      "How does school life differ from university life?",
+      "How important is it to continue learning after finishing school and university?"
+    ],
+    [
+      "Is punctuality important in your country?",
+      "In what situations should people always arrive early?",
+      "How important is it to arrive early in your country?",
+      "How can modern technology help people arrive early?"
+    ],
+    [
+      "Are you a patient person?",
+      "What kinds of jobs require the most patience?",
+      "Is it always better to be patient at work or studies?",
+      "Do older people tend to be more patient than younger people?"
+    ],
+    [
+      "Do you enjoy meeting new people?",
+      "In what situations do people want to get to know new people?",
+      "Where do people go to meet new people?",
+      "How do people start conversations with strangers?",
+      "Is it difficult for Vietnamese people to communicate with foreigners?",
+      "Why are some people unwilling to talk with others?",
+      "Is it difficult for adults to talk with children?"
+    ],
+    [
+      "Do you have teenage children?",
+      "How is the parent-teenager relationship different from the relationship with younger children?",
+      "What causes the most arguments between parents and teenagers?",
+      "Do teenagers have more independence in your country than they used to?",
+      "Who are the role models for teenagers in your country?",
+      "Are these good role models?"
+    ],
+    [
+      "Do schools in your country use technology in classrooms?",
+      "In what ways can technology in the classroom be helpful?",
+      "Are students often better at using technology than their teachers?",
+      "Will computers ever replace human teachers?"
+    ],
+    [
+      "Do you live in a house or apartment?",
+      "What are the advantages of living in an apartment compared to a house?",
+      "Do you think homes will look different in the future?",
+      "Do people prefer different types of homes as they get older?"
+    ],
+    [
+      "Do you enjoy watching films at the cinema?",
+      "Is going to the cinema more or less popular than it used to be?",
+      "What types of films are most popular among people you know?",
+      "Is there too much violence in films?",
+      "Should more films be made for children?",
+      "Do films influence things like fashion?",
+      "Does the media invade film stars' privacy too much?",
+      "Will films continue to be an important form of entertainment?"
+    ],
+    [
+      "Are you a university student?",
+      "Is higher education too expensive in your country?",
+      "Should all students pay for their university education?",
+      "What advantages do universities bring to society?",
+      "Which is more important in universities, research or teaching?",
+      "How should students spend their summer vacations?",
+      "What are the advantages of private universities compared to public universities?"
+    ],
+    [
+      "How do you prefer to study?",
+      "Is it better to study for long periods or in shorter blocks of time?",
+      "What happens when students don't manage their study time well?",
+      "How important is leisure time for students?"
+    ],
+    [
+      "Do you work for a company?",
+      "Is it better to work for a small company or a large international company?",
+      "What are the advantages and disadvantages of working from home?"
+    ],
+    [
+      "Is it easier for young people to change?",
+      "Is it easy for old people to change?",
+      "How can people change their daily routine if they want to?",
+      "What are the disadvantages when people keep making changes?"
+    ],
+    [
+      "Is it easy to find quiet places in your country?",
+      "Why do old people prefer to live in quiet places?",
+      "Why are there more noises made at home now than in the past?",
+      "Why do some people like to use noise as background sound when they are working or studying?"
+    ],
+    [
+      "Is it good to ask for advice from strangers online?",
+      "What are the problems if you ask too many people for advice?",
+      "What are the personalities of people whose job is to give advice to others?",
+      "Do you think parents should give their children advice?",
+      "Should teachers give students advice?",
+      "Do you think it is necessary for us to listen to friends' advice?",
+      "How to give young people and old people advice?",
+      "What are the areas in which people are more or less willing to accept advice?",
+      "Have you ever received any advice from professional people, like a doctor, a lawyer or a teacher?"
+    ],
+    [
+      "Is it good to share something on social media?",
+      "Should the media only publish good news?",
+      "How does social media help people access information?",
+      "What kind of good news do people often share in the community?",
+      "Do most people like to share good news with others?",
+      "Do people like to hear good news from their friends?"
+    ],
+    [
+      "Is it important to have pleasant childhood memories?",
+      "Do you think that people are permanently affected by negative childhood memories?",
+      "What do you think it means to 'live in the past'?",
+      "Nowadays many parents try to make their children happy by buying them many toys. How do you feel about this?",
+      "Is it important for a child to have a lot of toys in order to be happy?",
+      "What is more important for a child's happiness, many toys or many friends?"
+    ],
+    [
+      "Is there anything special about the countryside in Vietnam?",
+      "What do people usually do when going to the countryside?",
+      "Do you think people will live in the countryside in the future?"
+    ],
+    [
+      "Is there anything special about the villages in Vietnam?",
+      "Why do people want to go to the countryside?",
+      "What do people usually do when they visit a village?",
+      "Do you think people will live in villages in the future?"
+    ],
+    [
+      "Many people say that learning from mistakes is the key to a successful career. Do you agree with this view?",
+      "How easy is it for people who want a successful career to balance their work and personal life?"
+    ],
+    [
+      "On what occasion do many people wait for a long time?",
+      "Do people like waiting for a long time or not?",
+      "Why do children have difficulties waiting for a long time?",
+      "What do people do while waiting?",
+      "Are most people patient while waiting?",
+      "Do people queue consciously while waiting for the subway train?"
+    ],
+    [
+      "On what occasions do people usually need to wait?",
+      "Who behaves better when waiting, children or adults?",
+      "Compared to the past, are people less patient now?",
+      "What are the positive and negative effects of waiting on society?"
+    ],
+    [
+      "Should children have learning routines?",
+      "How do people's routines differ on weekdays and weekends?",
+      "What are the advantages of children having a routine at school?",
+      "Does having a routine make kids feel more secure at school?",
+      "What daily routines do people have at home?",
+      "What are the differences between people's daily routines now and in the last 15 years?"
+    ],
+    [
+      "Should everyone know history?",
+      "In what ways can children learn history?",
+      "What are the differences between learning history from books and from videos?",
+      "Is it difficult to protect and preserve historic buildings?",
+      "Who should be responsible for protecting historic buildings?",
+      "Who should pay for the preservation of historic buildings?"
+    ],
+    [
+      "Should students have physical education and do sports at school?",
+      "What qualities make an athlete?",
+      "Is talent important in sports?",
+      "Is it easy to identify children's talents?",
+      "What is the most popular sport in your country?"
+    ],
+    [
+      "Some people say it's better to work for yourself than be employed by a company. What's your view?",
+      "Do you agree that some jobs are still more suited to either men or women?",
+      "Do you think schools provide enough advice and support to students about their future careers?",
+      "Do you think more people will work from home in the future?",
+      "Can you think of any disadvantages of working from home?"
+    ],
+    [
+      "Some people think that education should be about memorising the important ideas of the past. Do you agree or disagree?",
+      "Should education encourage students to have their own new ideas?",
+      "How do you think teachers could help students to develop and share their own ideas?"
+    ],
+    [
+      "Some people think that education should be about memorising the important ideas of the past. Do you agree or disagree?",
+      "Should education encourage students to have their own new ideas?",
+      "How do you think teachers could help students to develop and share their own ideas?",
+      "Should employers encourage their workers to have new ideas about improving the company?",
+      "Do you think people sometimes dislike ideas just because they are new?",
+      "What is more difficult: having new ideas or putting them into practice? Which is more important for a successful company?"
+    ],
+    [
+      "What do you think are the greatest problems facing your country at present?",
+      "And what has been done so far to solve these problems?",
+      "How successful would you say these measures have been?",
+      "Do you think things are likely to get better or worse in the future?",
+      "Is what you are going to study likely to be of any use to solve these problems?",
+      "Should countries try to solve the climate change problems together or individually?"
+    ],
+    [
+      "What advantages can tourism bring to a city?",
+      "Why do some young people like to live in cities?",
+      "Do most elderly people live in the city or in the countryside?",
+      "Do you think well-developed tourism will have negative effects on local people?"
+    ],
+    [
+      "What ambitions do children usually have?",
+      "Why are some people very ambitious in their work?",
+      "Why don't some people have dreams?",
+      "How do people balance work and life?"
+    ],
+    [
+      "What are some of the things people can do to be healthier?",
+      "Do you think people were healthier in the past?",
+      "What kinds of food are considered healthy in your country?",
+      "What kinds of food are considered unhealthy in your country?",
+      "What are some ways to reduce the consumption of fast food in your country?"
+    ],
+    [
+      "What are some of the ways people can help others in the community? Which is most important?",
+      "Why do you think some people like to help other people?",
+      "Some people say that people help others in the community more now than they did in the past. Do you agree or disagree?",
+      "What types of services, such as libraries or health centres, are available to the people who live in your area? Do you think there are enough of them?",
+      "Which groups of people generally need most support in a community?",
+      "Who do you think should pay for the services that are available to the people in a community? Should it be the government or individual people?"
+    ],
+    [
+      "What are some popular attractions that people like to visit in your country?",
+      "Do old people and young people choose different places to go on vacation?",
+      "What do young people and old people think about when making travel plans?",
+      "How do people get to know a new place?"
+    ],
+    [
+      "What are some ways people can make themselves become more employable?",
+      "What are some reasons why people often lose their jobs?",
+      "Should people who can't get a job start their own business?"
+    ],
+    [
+      "What are the advantages and disadvantages of eating in restaurants?",
+      "What fast food is there in your country?",
+      "Do people eat fast food at home?",
+      "Why do some people choose to eat out instead of ordering takeout?",
+      "Do people in your country socialize in restaurants?",
+      "Do people in your country value food culture?"
+    ],
+    [
+      "What are the advantages and disadvantages of intensive training for young sportspeople?",
+      "Some people think that competition leads to a better performance from sports stars. Others think it just makes players feel insecure. What is your opinion?",
+      "Do you think that it is possible to become too competitive in sport?"
+    ],
+    [
+      "What are the common home appliances that people use these days?",
+      "Do you think modern technology makes people lazier?",
+      "What can people do to protect their equipment from technical problems?",
+      "When an electronic item of yours does not work, would you repair it or buy a new one?",
+      "Are you good at handling problems on your own?"
+    ],
+    [
+      "What are the contests commonly seen on TV programs?",
+      "Why are competition shows popular?",
+      "What kinds of industries need competition?",
+      "Do you think it is necessary to encourage people to compete with others in companies?"
+    ],
+    [
+      "What are the differences between painting and drawing?",
+      "Why do some people keep a painting for a long time?",
+      "How does building style affect people's lives?",
+      "Should children learn to draw?",
+      "What is the meaning of what children draw?",
+      "What do they often draw?",
+      "Should children learn to draw at school?",
+      "How do young people share art?",
+      "Do you need an artistic atmosphere at home?"
+    ],
+    [
+      "What are the differences between special foods in Vietnam and foreign countries?",
+      "Do people usually cook special foods in Vietnam?",
+      "Should special foods be easily available?"
+    ],
+    [
+      "What are the different types of meeting that people often go to?",
+      "Some people say that no one likes to go to meetings, what do you think?",
+      "Why can it sometimes be important to go to meetings?"
+    ],
+    [
+      "What are the different types of meeting that people often go to?",
+      "Some people say that no-one likes to go to meetings - what do you think?",
+      "Why can it sometimes be important to go to meetings?",
+      "Why do you think world leaders often have meetings together?",
+      "What possible difficulties might be involved in organising meetings between world leaders?",
+      "Do you think that meetings between international leaders will become more frequent in the future?",
+      "Or will there be less need for world leaders to meet?"
+    ],
+    [
+      "What are the elements of success?",
+      "What are the sacrifices for success?",
+      "Is it easy to succeed in the college entrance examination in Vietnam?",
+      "Is it easy for companies to succeed without damaging the environment?"
+    ],
+    [
+      "What are the main benefits of visiting other countries?",
+      "What preparations do people need to make before they visit another country?"
+    ],
+    [
+      "What are the main reasons why people organise family parties in your country?",
+      "In some places people spend a lot of money on parties that celebrate special family events. Is this ever true in your country? Do you think this is a good trend or a bad trend?",
+      "Are there many differences between family parties and parties given by friends?",
+      "What kinds of national celebration do you have in your country?",
+      "Who tends to enjoy national celebrations more: young people or old people?",
+      "Why do you think some people think that national celebrations are a waste of government money? Would you agree or disagree with this view?"
+    ],
+    [
+      "What are the most advertised products in your country?",
+      "Which one is more effective, newspaper advertising or online advertising?",
+      "What are the benefits of advertising?",
+      "What do you think of celebrity endorsements in advertising?",
+      "Does advertising encourage us to buy things we don't need?",
+      "What role does social media play in advertising?"
+    ],
+    [
+      "What are the most difficult jobs that people do?",
+      "Why do you think some people choose to do difficult jobs?",
+      "Do you agree or disagree that all jobs are difficult sometimes?"
+    ],
+    [
+      "What are the most difficult jobs that people do?",
+      "Why do you think some people choose to do difficult jobs?",
+      "Do you agree or disagree that all jobs are difficult sometimes?",
+      "How important is it for everyone to have a goal in their personal life?",
+      "Is it always necessary to work hard in order to achieve career success?",
+      "Do you think that successful people are always happy people?"
+    ],
+    [
+      "What are the most interesting things to do while visiting cities on holiday?",
+      "Why can it be expensive to visit cities on holiday?",
+      "Do you think it is better to visit cities alone or in a group with friends?"
+    ],
+    [
+      "What are the most interesting things to do while visiting cities on holiday?",
+      "Why can it be expensive to visit cities on holiday?",
+      "Do you think it is better to visit cities alone or in a group with friends?",
+      "Why have cities increased in size in recent years?",
+      "What are the challenges created by ever-growing cities?",
+      "In what ways do you think cities of the future will be different to cities today?"
+    ],
+    [
+      "What are the most popular free-time activities with children today?",
+      "Do you think the free-time activities children do today are good for their height?",
+      "How do you think children's activities will change in the future? Will this be a positive change?"
+    ],
+    [
+      "What are the most popular jobs for young people in your country?",
+      "What is the difference between high-income and low-income jobs in your country?",
+      "Which jobs have the highest salaries?",
+      "When is the right time for young people to start making serious plans for their future careers?",
+      "Which jobs pay low wages but require a high level of skills?",
+      "Do you think it is important for secondary schools to offer career advice to students?"
+    ],
+    [
+      "What are the most popular kinds of TV programmes in your country?",
+      "Do you think there are too many game shows on TV nowadays?",
+      "Do you think TV is the main way for people to get the news in your country?",
+      "What types of products are advertised most often on TV?",
+      "Do you think that people pay attention to adverts on TV?",
+      "How important are regulations on TV advertising?"
+    ],
+    [
+      "What are the most popular places to visit in your country?",
+      "Why do many people like to visit historic buildings?",
+      "Why is it hard sometimes to choose a place for a family group to visit?"
+    ],
+    [
+      "What are the most popular places to visit in your country?",
+      "Why do many people like to visit historic buildings?",
+      "Why is it hard sometimes to choose a place for a family group to visit?",
+      "What are the main benefits of visiting other countries?",
+      "What preparations do people need to make before they visit another country?",
+      "How can large numbers of tourists affect the environment in some places?",
+      "What could be done to reduce the impact of mass tourism?"
+    ],
+    [
+      "What are the most popular tourist attractions in your country?",
+      "How do the types of tourist attractions that younger people like to visit compare with those that older people like to visit?",
+      "Do you agree that some tourist attractions (e.g national museums/galleries) should be free to visit?"
+    ],
+    [
+      "What are the most popular tourist attractions in your country?",
+      "How do the types of tourist attractions that younger people like to visit compare with those that older people like to visit?",
+      "Do you agree that some tourist attractions (e.g national museums/galleries) should be free to visit?",
+      "Why is tourism important to a country?",
+      "What are the benefits to individuals of visiting another country as tourists?",
+      "How necessary is it for tourists to learn the language of the country they're visiting?"
+    ],
+    [
+      "What are the most popular types of children's books in your country?",
+      "What are the benefits of parents reading books to their children?",
+      "Should parents always let children choose the books they read?"
+    ],
+    [
+      "What are the most popular types of children's books in your country?",
+      "What are the benefits of parents reading books to their children?",
+      "Should parents always let children choose the books they read?",
+      "How popular are electronic books are in your country?",
+      "What are the advantages of parents reading electronic books (compared to printed books)?",
+      "Will electronic books ever completely replace printed books in the future?"
+    ],
+    [
+      "What are the most popular types of films in your country?",
+      "What is the difference between watching a film in the cinema and watching a film at home?",
+      "Do you think cinemas will close in the future?"
+    ],
+    [
+      "What are the most popular types of films in your country?",
+      "What is the difference between watching a film in the cinema and watching a film at home?",
+      "Do you think cinemas will close in the future?",
+      "How important is the theatre in your country's history?",
+      "How strong a tradition is it today in your country to go to the theater?",
+      "Do you think the theatre should be run as a business or as a public service?"
+    ],
+    [
+      "What are the most popular ways of keeping healthy in your country?",
+      "Do you think most people worry more about their health as they get older?",
+      "Why do you think some people continue bad habits when they know that they are damaging to their health?",
+      "How can children be encouraged to adopt healthy eating habits?",
+      "Do you think people have become more health conscious in recent years?",
+      "Could governments do more to promote healthier lifestyle options?"
+    ],
+    [
+      "What are the rules students should follow at school?",
+      "Are the rules at school good or bad?",
+      "Do people often violate the rules in Viet Nam?",
+      "What rules should children follow at home?"
+    ],
+    [
+      "What are the things that make people feel proud?",
+      "Do people often feel proud of themselves when they complete a difficult task?",
+      "What challenges do young people face today?",
+      "How do young people handle difficult or challenging tasks?",
+      "What kinds of rewards do people receive from work?"
+    ],
+    [
+      "What are the ways that social media can be used for positive purposes?",
+      "Why do some individuals post highly negative comments about other people on social media?",
+      "Do you think that companies' main form of advertising will be via social media in the future?"
+    ],
+    [
+      "What areas of a town or city do tourists often like to visit?",
+      "How important is it for local governments to look after popular tourist attractions?",
+      "Should people pay to visit attractions such as museums and galleries?"
+    ],
+    [
+      "What areas of a town or city do tourists often like to visit?",
+      "How important is it for local governments to look after popular tourist attractions?",
+      "Should people pay to visit attractions such as museums and galleries?",
+      "How should tourists behave when they are in a different country?",
+      "What can local people do to help tourists enjoy their visit?",
+      "What can tourists learn from visiting new places?"
+    ],
+    [
+      "What average age is normal for retirement in your opinion?",
+      "What are the good things about being retired?",
+      "How does the government in your country treat the retired people?",
+      "Can young specialists substitute the old ones who are in retirement in the work places?",
+      "What do you thing is it necessary to give retirement to people? Why/Why not?",
+      "What are the pros and cons of being retired?"
+    ],
+    [
+      "What can children do to help in the home?",
+      "How can parents encourage their children to help with daily tasks?",
+      "Do you think people help their neighbours enough nowadays?",
+      "Do you agree that everyone should contribute to international charities?"
+    ],
+    [
+      "What can children learn from parents?",
+      "Do you think some children are well-behaved?",
+      "Is it necessary for adults to learn new things?",
+      "How can people learn new things?",
+      "Does the internet make learning easier or more difficult?",
+      "Can people acquire more knowledge now than before?"
+    ],
+    [
+      "What can children learn from their parents or grandparents?",
+      "From whom can children learn more, parents or grandparents?",
+      "What kind of help do you think older people need?"
+    ],
+    [
+      "What can schools do to help students prepare for the next stage in their lives?",
+      "What advice would you give to someone who doesn't like school?",
+      "What can schools teach children that they can't learn from their parents?"
+    ],
+    [
+      "What can schools do to help students prepare for the next stage in their lives?",
+      "What advice would you give to someone who doesn't like school?",
+      "What can schools teach children that they can't learn from their parents?",
+      "In general, what opportunities are available to students after they leave school?",
+      "How do you think school life differs from university life?",
+      "How important do you think it is for individuals to carry on learning after they have finished school and university?"
+    ],
+    [
+      "What contribution does the fashion industry make to a country's economy and reputation?"
+    ],
+    [
+      "What decisions do people usually make in their daily lives?",
+      "Which is easier, making a decision by yourself or making a decision after",
+      "Why are many young people unwilling to follow their parents' advice?",
+      "Why would middle-aged people tend to second-guess their own decisions?"
+    ],
+    [
+      "What difficulties do people face when learning a language?",
+      "Do you think language learning is important?"
+    ],
+    [
+      "What do old people like to eat?",
+      "How important is it for a country to be able to grow all the food it needs, without importing any from other countries?"
+    ],
+    [
+      "What do people in your country often do while waiting?",
+      "Why do some people like a slow-paced life?",
+      "Is being patient good for people?",
+      "Are people less patient now than people in the past?",
+      "Why do children lack patience?",
+      "How can people become more patient?"
+    ],
+    [
+      "What do you think about the fast food trend?",
+      "Do you think science and technology affected food and agriculture in a positive or a negative way?",
+      "What do you think is the impact of the ability to transport the food over long distances?",
+      "Do you think technology has also affected the food that we have traditionally been cooking at home?"
+    ],
+    [
+      "What do you think are the most important scientific discoveries in the last 100 years?",
+      "Do you agree or disagree that there are no more major scientific discoveries left to make?",
+      "Who should pay for scientific research - governments or private companies?"
+    ],
+    [
+      "What do you think fascinates humans about outer space?",
+      "Do you think that's why some stories about space travel have been so 'imaginative'?",
+      "How do you think people's attitudes towards space exploration have changed since the first Moon landings'",
+      "To what extent do you think governments will continue to fund projects in search of life on other planets?"
+    ],
+    [
+      "What do you think fascinates humans about outer space?",
+      "Do you think that's why some stories about space travel have been so 'imaginative'?",
+      "To what extent do you think governments will continue to fund projects in search of life on other planets?"
+    ],
+    [
+      "What do you think is the retirement age for men and women?",
+      "What kinds of qualities do people need to run their own business?",
+      "What do you think are the key factors that contribute to the success of a business?"
+    ],
+    [
+      "What do you think it might be like to work in a customer service job?",
+      "Do you agree that customers are more likely to complain nowadays?",
+      "How important is it for companies to take all customer complaints seriously?"
+    ],
+    [
+      "What do you think makes someone a good friend to a whole family?",
+      "Do you think we meet different kinds of friend at different stages of our lives? In what ways are these types of friend different?",
+      "How easy is it to make friends with people from a different age group?"
+    ],
+    [
+      "What do you think makes someone a good friend to a whole family?",
+      "Do you think we meet different kinds of friend at different stages of our lives? In what ways are these types of friend different?",
+      "How easy is it to make friends with people from a different age group?",
+      "Do you think it is possible to be friends with someone if you never meet them in person? Is this real friendship?",
+      "What kind of influence can friends have on our lives?",
+      "How important would you say it is to have friends from different cultures?"
+    ],
+    [
+      "What do you think of online advertising?",
+      "Are there any great online advertisements?",
+      "What do people usually buy?",
+      "Why does buying new things make people happy?",
+      "Do people watch useless advertising in this day and age?"
+    ],
+    [
+      "What do you think of the relationship between companies and customers?",
+      "As a customer, what kinds of services would you expect to receive from a company?",
+      "What kinds of jobs involve coping with the public?",
+      "Why should companies react quickly when customers have difficulties?"
+    ],
+    [
+      "What effect has the Internet had on the way people generally communicate with each other?",
+      "How do you think communicating by email is different from communicating by text message?",
+      "Why do you think the Internet is being used more and more for communication?"
+    ],
+    [
+      "What foreign languages do Vietnamese children learn?",
+      "Why do Vietnamese children learn English?",
+      "Why are so many people learning English?",
+      "How can you help children learn English?",
+      "Do you think the way people learn English today is the same as in the past?",
+      "What are the benefits of the Internet for people's learning?"
+    ],
+    [
+      "What habits should children have?",
+      "What should parents do to teach their children good habits?",
+      "How do people develop bad habits?",
+      "What habits do people have when they get older?"
+    ],
+    [
+      "What is good customer service?",
+      "Why do some shops provide better customer service than other shops?",
+      "How important is customer service to the success of a shop?"
+    ],
+    [
+      "What is the best age for children to start computer lessons?",
+      "Do you think that schools should use more technology to help children learn?",
+      "Do you agree or disagree that computers will replace teachers one day?"
+    ],
+    [
+      "What is the best age for children to start computer lessons?",
+      "Do you think that schools should use more technology to help children learn?",
+      "Do you agree or disagree that computers will replace teachers one day?",
+      "How much has technology improved how we communicate with each other?",
+      "Do you agree that there are still many more major technological innovations to be made?",
+      "Could you suggest some reasons why some people are deciding to reduce their use of technology?"
+    ],
+    [
+      "What is the importance of travelling?",
+      "What type of places do you recommend people to visit on vacation?",
+      "Do people in your country prefer to travel by car or by train?",
+      "What are the advantages of travelling with a group of people?",
+      "Should young people travel abroad?",
+      "Are international trips popular with people in your country?",
+      "What do you consider when you take a trip?"
+    ],
+    [
+      "What is the most helpful innovation at home?",
+      "What household appliances make us lazy?",
+      "What kind of invention can be used at school?",
+      "Do you think AI will replace human teachers?"
+    ],
+    [
+      "What jobs are well-paid?",
+      "What are the changes in working conditions?",
+      "What are the impacts of the epidemic on the work environment?"
+    ],
+    [
+      "What kind of advice do parents give to their children?",
+      "How do experts give advice to others? (e.g a doctor gives advice to patients)",
+      "What advice do parents give to teenagers about making friends?",
+      "Whose advice is more helpful? Parents' or friends'?"
+    ],
+    [
+      "What kind of jobs are poorly-paid in your country?",
+      "Do people who have different levels of income feel happy about how much they earn?",
+      "Do you think it is good to change jobs frequently?"
+    ],
+    [
+      "What kind of toys were famous in your childhood? How about these days?",
+      "Do you think parents should buy more toys for their children or should they spend more time with them instead?"
+    ],
+    [
+      "What kinds of apartments are most popular?",
+      "What are the differences between houses that young people and old people like?",
+      "What are the differences between apartments and houses?"
+    ],
+    [
+      "What kinds of book are most popular with children in your country?",
+      "Why do you think some children do not read books very often?",
+      "How do you think children can be encouraged to read more?"
+    ],
+    [
+      "What kinds of book are most popular with children in your country?",
+      "Why do you think some children do not read books very often?",
+      "How do you think children can be encouraged to read more?",
+      "Are there any occasions when reading at speed is a useful skill to have? What are they?",
+      "Are there any jobs where people need to read a lot? What are they?",
+      "Do you think that reading novels is more interesting than reading factual books?"
+    ],
+    [
+      "What kinds of clothes do young people like to wear in your country?",
+      "Will people continue to shop in small shops and markets in the future?",
+      "What contribution does the fashion industry make to a country's economy and reputation?"
+    ],
+    [
+      "What kinds of computer games do people play in your country?",
+      "Why do people enjoy playing computer games?",
+      "Do you think that all computer games should have a minimum age for players?"
+    ],
+    [
+      "What kinds of computer games do people play in your country?",
+      "Why do people enjoy playing computer games?",
+      "Do you think that all computer games should have a minimum age for players?",
+      "In what ways can technology in the classroom be helpful?",
+      "Do you agree that students are often better at using technology than their teachers?",
+      "Do you believe that computers will ever replace human teachers?"
+    ],
+    [
+      "What kinds of equipment do most workers need to use in offices today?",
+      "How have developments in technology affected employment in your country?",
+      "Some people think that technology has brought more stress than benefits to employed people nowadays. Would you agree or disagree?"
+    ],
+    [
+      "What kinds of exercises do Vietnamese people like?",
+      "What characteristics do you think an athlete should have?",
+      "Why are there so few top athletes?",
+      "What's the best way to become a top athlete?"
+    ],
+    [
+      "What kinds of family businesses are common in Vietnam?",
+      "Is it good to work with family members?",
+      "Why do people want to do family business?",
+      "What benefits are there when working for big companies?"
+    ],
+    [
+      "What kinds of home are most popular in your country?",
+      "What do you think are the advantages of living in a house rather than an apartment?",
+      "Do you think that everyone would like to live in a larger home?"
+    ],
+    [
+      "What kinds of home are most popular in your country?",
+      "What do you think are the advantages of living in a house rather than an apartment?",
+      "Do you think that everyone would like to live in a larger home?",
+      "How easy is it to find a place to live in your country?",
+      "Do you think it's better to rent or to buy a place to live in?",
+      "Do you agree that there is a right age for young adults to stop living with their parents?"
+    ],
+    [
+      "What kinds of jobs do young people not want to do in your country?",
+      "Who is best at advising young people about choosing a job: teachers or parents?",
+      "Is money always the most important thing when choosing a job?"
+    ],
+    [
+      "What kinds of jobs do young people not want to do in your country?",
+      "Who is best at advising young people about choosing a job: teachers or parents?",
+      "Is money always the most important thing when choosing a job?",
+      "Do you agree that many people nowadays are under pressure to work longer hours and take less holiday?",
+      "What is the impact on society of people having a poor working-life balance?",
+      "Could you recommend some effective strategies for governments and employers to ensure people have a good work-life balance?"
+    ],
+    [
+      "What kinds of jobs require people to be confident?",
+      "How important is being confident in work?",
+      "Which one do you think is more important? Confidence or knowledge?",
+      "How do you help children stay focused?"
+    ],
+    [
+      "What kinds of jobs require the most patience?",
+      "Is it always better to be patient in work (or studies)?",
+      "Do you agree or disagree that the older people are, the more patient they are?"
+    ],
+    [
+      "What kinds of machine are used for housework in modern homes in your country?",
+      "How have these machines benefited people? Are there any negative effects of using them? Do you think all new homes will be equipped with household machines in the future?"
+    ],
+    [
+      "What kinds of machine are used for housework in modern homes in your country?",
+      "How have these machines benefited people? Are there any negative effects of using them? Do you think all new homes will be equipped with household machines in the future?",
+      "What kinds of equipment do most workers need to use in offices today?",
+      "How have developments in technology affected employment in your country?",
+      "Some people think that technology has brought more stress than benefits to employed people nowadays. Would you agree or disagree?"
+    ],
+    [
+      "What kinds of monuments do tourists in your country enjoy visiting?",
+      "Why do you think there are often statues of famous people in public places?",
+      "Do you agree that old monuments and buildings should always be preserved?"
+    ],
+    [
+      "What kinds of monuments do tourists in your country enjoy visiting?",
+      "Why do you think there are often statues of famous people in public places?",
+      "Do you agree that old monuments and buildings should always be preserved?",
+      "Why is architecture such a popular university subject?",
+      "In what ways has the design of homes changed in recent years?",
+      "To what extent does the design of buildings affect people's moods?"
+    ],
+    [
+      "What kinds of national celebration do you have in your country?",
+      "Who tends to enjoy national celebrations more: young people or old people?",
+      "Why do you think some people think that national celebrations are a waste of government money? Would you agree or disagree with this view?"
+    ],
+    [
+      "What kinds of organisation want to find out about people's opinions?",
+      "Do you think that questionnaires or surveys are good ways of finding out people's opinions?",
+      "What reasons might people have for not wanting to give their opinions?"
+    ],
+    [
+      "What kinds of organisation want to find out about people's opinions?",
+      "Do you think that questionnaires or surveys are good ways of finding out people's opinions?",
+      "What reasons might people have for not wanting to give their opinions?",
+      "Do you think it would be a good idea for schools to ask students their opinions about lessons?",
+      "What would the advantages for schools be if they asked students their opinions?",
+      "Would there be any disadvantages in asking students' opinions?"
+    ],
+    [
+      "What kinds of people are easy to get along with?",
+      "How do leaders get along with their subordinates?",
+      "Do people have time for themselves nowadays?"
+    ],
+    [
+      "What kinds of people are most famous in your country today?",
+      "Why are there so many stories about famous people in the news?",
+      "Do you agree or disagree that many young people today want to be famous?"
+    ],
+    [
+      "What kinds of people are most famous in your country today?",
+      "Why are there so many stories about famous people in the news?",
+      "Do you agree or disagree that many young people today want to be famous?",
+      "Do you think it is easy for famous people to earn a lot of money?",
+      "Why might famous people enjoy having fans?",
+      "In what ways could famous people use their influence to do good things in the world?"
+    ],
+    [
+      "What kinds of people are popular?",
+      "Can you explain why some students at school are more popular than others?",
+      "Do you think a popular teacher is always a good teacher?",
+      "Do you think it's easier to be popular if you are wealthy than if you are poor?",
+      "Can you explain why some people are popular (or famous) for many years while others are only popular (or famous) for a short time?",
+      "Do you think that a 3 or 4-year-old child can become popular?"
+    ],
+    [
+      "What kinds of rules are common in a school?",
+      "How important is it to have rules in a school?",
+      "What do you recommend should happen if children break school rules?",
+      "Can you suggest why many students decide to study law at university?",
+      "What are the key personal qualities needed to be a successful lawyer?",
+      "Do you agree that working in the legal profession is very stressful?"
+    ],
+    [
+      "What kinds of services are bad services?",
+      "Why do some people choose to remain silent when they receive bad services?",
+      "Who should be responsible for bad services?",
+      "As a boss, what would you do to prevent bad services?",
+      "Do you think services are better now than in the past?"
+    ],
+    [
+      "What kinds of things do people in your country often buy from online shops?",
+      "Why do you think online shopping has become so popular nowadays?",
+      "What are some possible disadvantages of buying things from online shops?"
+    ],
+    [
+      "What kinds of things do people in your country often buy from online shops?",
+      "Why do you think online shopping has become so popular nowadays?",
+      "What are some possible disadvantages of buying things from online shops?",
+      "Why do many people today keep buying things which they do not need?",
+      "Do you believe the benefits of a consumer society outweigh the disadvantages?",
+      "How possible is it to avoid the culture of consumerism?"
+    ],
+    [
+      "What kinds of things do people in your country often buy from online shops?",
+      "Why has online shopping become so popular in many countries?",
+      "What are some possible disadvantages of buying things from online shops?",
+      "Do you agree that the prices of all goods should be lower on internet shopping sites than in shops?",
+      "Will large shopping malls continue to be popular, despite the growth of internet shopping?",
+      "Do you think that some businesses (e.g. banks and travel agents) will only operate online in the future?"
+    ],
+    [
+      "What kinds of things do people usually lose?",
+      "What do people often do when losing things?",
+      "Is it an effective way to use rewards to find lost things?",
+      "What kinds of people may lose things often?"
+    ],
+    [
+      "What kinds of things do people write online reviews about in your country?",
+      "Why do some people write online reviews?",
+      "Do you think that online reviews are good for both shoppers and companies?"
+    ],
+    [
+      "What kinds of things do people write online reviews about in your country?",
+      "Why do some people write online reviews?",
+      "Do you think that online reviews are good for both shoppers and companies?",
+      "What do you think it might be like to work in a customer service job?",
+      "Do you agree that customers are more likely to complain nowadays?",
+      "How important is it for companies to take all customer complaints seriously?"
+    ],
+    [
+      "What makes a good student?",
+      "What role should the teacher have in the classroom?",
+      "Do you think computers will one day replace teachers in the classroom?",
+      "How has teaching changed in your country in the last few decades?",
+      "What is the difference between the way children learn and the way adults learn?",
+      "How can a teacher make lessons for children more interesting?"
+    ],
+    [
+      "What methods of transport are most popular in your city / country?",
+      "What are some of the problems of long-distance travelling?",
+      "Has the way people travel changed much in the last few decades?",
+      "Do you agree that governments should do more to encourage greener methods of transport?",
+      "What measures could be taken to reduce problems of congestion in cities?",
+      "Do you think that transport problems are worse in urban or rural areas?"
+    ],
+    [
+      "What outdoor activities are popular in Vietnam?",
+      "Are those people who like dangerous activities more likely to be successful?",
+      "Do you think it's better for people to change jobs when there are new chances?",
+      "Should young people try as many new activities as possible?",
+      "What kinds of places are good for outdoor activities?",
+      "Do young people do the same outdoor activities as old people do nowadays?"
+    ],
+    [
+      "What outdoor activities do people like?",
+      "What are the differences between the outdoor activities children did in the past and now?",
+      "Is leisure time important to everyone?",
+      "Do women have more leisure time than men?"
+    ],
+    [
+      "What practical skills can young people teach old people?",
+      "What skills can young people teach old people besides technology?",
+      "How can young people teach old people skills?",
+      "How can we know what to do when we want to learn something new?",
+      "Do you think 'showing' is a better way than 'telling' in education?",
+      "Do people in your country like to watch videos to learn something?"
+    ],
+    [
+      "What qualities make someone a good role model?",
+      "Why should children learn from role models?",
+      "Who can influence children more, teachers or parents?",
+      "What kind of international news inspires people?",
+      "Besides parents and teachers, who else can motivate children?",
+      "Can online teaching motivate students' interest? How?"
+    ],
+    [
+      "What role do parents and schools play in shaping children's dietary habits?",
+      "What do old people like to eat?",
+      "What are the consequences of consistently eating an imbalanced diet?"
+    ],
+    [
+      "What rules should children abide by at home in your country?",
+      "What rules can be forgiven for children breaking at home?",
+      "What rules should people obey in public transportation?",
+      "Should schools have rules?",
+      "Should schools (or workplaces) decide how long the working hours should be?",
+      "What are the reasons that cause people to break rules?",
+      "What kinds of rules do people need to follow in public places?"
+    ],
+    [
+      "What skills and abilities do people most want to have today?",
+      "Which skills should children learn at school?",
+      "Are there any skills which they should learn at home?",
+      "Which skills do you think will be important in the future?"
+    ],
+    [
+      "Which kinds of jobs have the highest salaries in your country?",
+      "Are there any other jobs that you think should have high salaries?",
+      "Some people say it would be better for society if everyone got the same salary. What do you think about that?"
+    ],
+    [
+      "What skills do students need to master?",
+      "Is it hard for students to learn skills?",
+      "Is it hard for old people to learn new skills?",
+      "Is a good teacher very important for students' learning experience?"
+    ],
+    [
+      "What sort of occasions do families and friends like to celebrate?",
+      "How important are celebrations in people's lives?",
+      "Should people have time off work for important celebrations?"
+    ],
+    [
+      "What sort of occasions do families and friends like to celebrate?",
+      "How important are celebrations in people's lives?",
+      "Should people have time off work for important celebrations?",
+      "Why do many people enjoy participating in national celebrations?",
+      "Have national celebrations become more or less important over time?",
+      "What sort of things do you think countries will celebrate in the future?"
+    ],
+    [
+      "What sort of things can neighbours do to help each other?",
+      "How well do people generally know their neighbours in your country?",
+      "How important do you think it is to have good neighbours?"
+    ],
+    [
+      "What sort of things can neighbours do to help each other?",
+      "How well do people generally know their neighbours in your country?",
+      "How important do you think it is to have good neighbours?",
+      "Which facilities are most important to people living in cities?",
+      "How does shopping in small local shops differ from shopping in large city centre shops?",
+      "Do you think that children should always go to the school nearest to where they live?"
+    ],
+    [
+      "What technology do people currently use?",
+      "Why do big companies introduce new products frequently?",
+      "Why are people so keen on buying iPhones even though they haven't changed much from one iPhone to the next?",
+      "Why do technology companies keep upgrading their products?",
+      "What changes has the development of technology brought about in our lives?",
+      "Does the development of technology affect the way we study? How?"
+    ],
+    [
+      "What things are important when people are choosing a hotel?",
+      "Why do some people not like staying in hotels?",
+      "Do you think staying in a luxury hotel is a waste of money?"
+    ],
+    [
+      "What things are important when people are choosing a hotel?",
+      "Why do some people not like staying in hotels?",
+      "Do you think staying in a luxury hotel is a waste of money?",
+      "Do you think hotel work is a good career for life?",
+      "How does working in a big hotel compare with working in a small hotel?",
+      "What skills are needed to be a successful hotel manager?"
+    ],
+    [
+      "What things do families keep for a long time?",
+      "What's the difference between things valued by people in the past and today?",
+      "What kinds of things are kept in museums?",
+      "What's the influence of technology on museums?"
+    ],
+    [
+      "What things make an office comfortable to work in?",
+      "Why do some people prefer to work outdoors?",
+      "Do you agree that the building people work in is more important than the colleagues they work with?"
+    ],
+    [
+      "What things make an office comfortable to work in?",
+      "Why do some people prefer to work outdoors?",
+      "Do you agree that the building people work in is more important than the colleagues they work with?",
+      "What would life be like if people didn't have to work?",
+      "Are all jobs of equal important?",
+      "Why do some people become workaholics?"
+    ],
+    [
+      "What transportation do you use the most?",
+      "Is public transportation popular in Vietnam?",
+      "What can be done to improve public transport services in your hometown?",
+      "What leisure facilities can be used by people of all ages?",
+      "Do you think young people in your country like going to the cinema?",
+      "How is the subway system developing in your country?"
+    ],
+    [
+      "What types of local business are there in your neighbourhood? Are there any restaurants, shops, or dentists for example?",
+      "Do you think local businesses are important for a neighborhood?",
+      "How do large shopping malls and commercial centres affect small local businesses?"
+    ],
+    [
+      "Why do some people want to start their own business?",
+      "Are there any disadvantages to running a business?",
+      "What are the most important qualities that a good business person needs?"
+    ],
+    [
+      "What types of music do young people in your country enjoy listening to?",
+      "What is different about listening to music at home and going to a live concert?",
+      "Why do so many people listen to music when they are travelling to work/college?",
+      "Should governments subsidise less popular forms of music such as opera?"
+    ],
+    [
+      "What types of products are advertised most often on TV?",
+      "Do you think that people pay attention to adverts on TV?",
+      "How important are regulations on TV advertising?"
+    ],
+    [
+      "What types of school prizes do children in your country receive?",
+      "What do you think are the advantages of rewarding schoolchildren for good work?",
+      "Do you agree that it's more important for children to receive rewards from their parents than from teachers?",
+      "Do you think that some sportspeople (e.g., top footballers) are paid too much money?",
+      "Should everyone on a team get the same prize money when they win?",
+      "Do you agree with the view that, in sport, taking part is more important than winning?"
+    ],
+    [
+      "What types of things do young people in your country most want to own today?",
+      "Why is this?",
+      "Why do some people feel they need to own things?",
+      "Do you think that owning lots of things makes people happy?",
+      "Do you think television and films can make people want to get new possessions?",
+      "Why do they have this effect?",
+      "Are there any benefits to society of people wanting to get new possessions?",
+      "Why do you think this is?",
+      "Do you think people will consider that having lots of possessions is a sign of success in the future?"
+    ],
+    [
+      "What types of weather do people in your country dislike most?",
+      "What jobs can be affected by different weather conditions?",
+      "Are there any important festivals in your country that celebrate a season or type of weather?"
+    ],
+    [
+      "What types of weather do people in your country dislike most?",
+      "What jobs can be affected by different weather conditions?",
+      "Are there any important festivals in your country that celebrate a season or type of weather?",
+      "How important do you think it is for everyone to check what the next day's weather will be?",
+      "What is the best way to get accurate information about the weather?",
+      "How easy or difficult is it to predict the weather in your country?"
+    ],
+    [
+      "What would life be like if people didn't have to work?",
+      "Are all jobs of equal important?",
+      "Why do some people become workaholics?"
+    ],
+    [
+      "What would parents prepare when their kids go to school on the first day?",
+      "How do children socialize with each other?",
+      "Is socialization important for children?",
+      "What are the reasons for job change?",
+      "Are big companies better than small companies?",
+      "What are the advantages and disadvantages coming along with changing jobs?"
+    ],
+    [
+      "What's the difference between big cities and small cities?",
+      "Do you like historical cities?",
+      "How to protect historical cities?",
+      "Do you think old buildings should be broken down, and give place for modern buildings?"
+    ],
+    [
+      "What's the most popular thing to learn nowadays?",
+      "At what age should children start making their own decisions?",
+      "Which influences young people more when choosing a course, income or interest?",
+      "Do young people take their parents' advice when choosing a major?",
+      "Besides parents, who else would people take advice from?",
+      "Why do some people prefer to study alone?"
+    ],
+    [
+      "When do children begin to have their own ideas?",
+      "Why are there more and more differences between children and their parents these days?",
+      "What are the advantages and disadvantages of setting rules for children?",
+      "Who are smart children likely to be influenced by?",
+      "How do inventors or philosophers come up with new ideas?",
+      "Are there only old ideas from books or previous writers?"
+    ],
+    [
+      "When do children normally form their own views?",
+      "Do children have strong opinions?",
+      "Should parents request their kids to obey them?",
+      "In what industries do you think communication is a necessary skill?"
+    ],
+    [
+      "When do people like to read the newspaper?",
+      "How important is it for people to have a choice of newspaper?",
+      "What does a 'good' newspaper contain?",
+      "Why do some people choose to read the news on the Internet rather than in a newspaper?",
+      "How is Internet news different from the news you read in the newspaper?",
+      "Will Internet news ever replace newspapers?"
+    ],
+    [
+      "When do people normally send gifts to others?",
+      "Do people give gifts or red packets on traditional festivals?",
+      "Is it easy to choose clothes as gifts?",
+      "Will people feel happy when receiving an expensive gift?"
+    ],
+    [
+      "When would parents feel proud of their children?",
+      "Should parents reward children? Why and how?",
+      "Is it good to reward children too often?",
+      "On what occasions would adults be proud of themselves?"
+    ],
+    [
+      "Where do people in your country buy food?",
+      "Is it better to buy clothes in small shops?",
+      "What are the advantages of internet shopping?"
+    ],
+    [
+      "Where do people in your country buy food?",
+      "Is it better to buy clothes in small shops?",
+      "What are the advantages of internet shopping?",
+      "What is good customer service?",
+      "Why do some shops provide better customer service than other shops?",
+      "How important is customer service to the success of a shop?",
+      "Why is shopping such a popular activity?",
+      "What are the advantages to society of a highly developed shopping centre?",
+      "Is society becoming increasingly materialistic?"
+    ],
+    [
+      "Where do young people like to go?",
+      "Are people happy living in crowded apartments?",
+      "Which scenic spots will have queues of people?",
+      "What are the advantages of living on a higher floor?",
+      "What are the disadvantages of living on a lower floor?",
+      "What do you think of the phenomenon of people queuing in restaurants for more than an hour?"
+    ],
+    [
+      "Which can help you remember things better, words or photos?",
+      "Why do some people have better memory?",
+      "Why can some people remember some little things in life?"
+    ],
+    [
+      "Which communication skills are most important when taking part in meetings with colleagues?",
+      "What are the possible effects of poor written communication skills at work?",
+      "What do you think will be the future impact of technology on communication in the workplace?"
+    ],
+    [
+      "Which do you prefer, living in a city or only visiting it as a tourist?",
+      "How do young children react when they go to school for the first time?",
+      "How do young and old people react differently to new things?",
+      "Why do some people want to go to college far away from home?"
+    ],
+    [
+      "Which do you think is more important, for most people, job satisfaction or a high income?",
+      "If people are unhappy with their job do you think they should they quit and look for a new job?",
+      "Should parents encourage their children to enter the same field that they are in?"
+    ],
+    [
+      "Which do you think is more important, for most people, job satisfaction or a high income?",
+      "If people are unhappy with their job do you think they should they quit and look for a new job?",
+      "Should parents encourage their children to enter the same field that they are in?",
+      "What are some ways people can make themselves become more employable?",
+      "What are some reasons why people often lose their jobs?",
+      "Should people who can't get a job start their own business?"
+    ],
+    [
+      "Which expensive items would many young people (in your country) like to buy?",
+      "How do the expensive items that younger people want to buy differ from those that older people want to buy?",
+      "Do you think that people are more likely to buy expensive items for their friends or for themselves?"
+    ],
+    [
+      "Which expensive items would many young people (in your country) like to buy?",
+      "How do the expensive items that younger people want to buy differ from those that older people want to buy?",
+      "Do you think that people are more likely to buy expensive items for their friends or for themselves?",
+      "How difficult is it to become very rich in today's world?",
+      "Do you agree that money does not necessarily bring happiness?",
+      "In what ways might rich people use their money to help society?"
+    ],
+    [
+      "Which facilities are most important to people living in cities?",
+      "How does shopping in small local shops differ from shopping in large city centre shops?",
+      "Do you think that children should always go to the school nearest to where they live?"
+    ],
+    [
+      "Which form of vehicle is more popular in your country, bikes, cars or",
+      "Do you think air pollution comes mostly from mobile vehicles?",
+      "Do you think people need to change the way of transportation drastically to",
+      "How are the transportation systems in urban areas and rural areas different?"
+    ],
+    [
+      "Which is more important, personal goals or work goals?",
+      "Have your life goals changed since your childhood?",
+      "Does everyone set goals for themselves?",
+      "What kinds of rewards are important at work?",
+      "Do you think material rewards are more important than other rewards at work?",
+      "What makes people feel proud of themselves?"
+    ],
+    [
+      "Which jobs would you say are most respected in your country?",
+      "Some people say it's better to work for yourself than be employed by a company. What's your opinion?",
+      "What changes in employment have there been in recent years in your country?",
+      "What are some of the important things a candidate should find out before accepting a job?"
+    ],
+    [
+      "Which jobs would you say are most respected in your country?",
+      "Some people say it's better to work for yourself than be employed by a company. What's your view?",
+      "Do you agree that some jobs are still more suited to either men or women?",
+      "Do you think schools provide enough advice and support to students about their future careers?",
+      "What changes in employment have there been in recent years in your country?",
+      "Do you think more people will work from home in the future?",
+      "Can you think of any disadvantages of working from home?"
+    ],
+    [
+      "Which kinds of jobs have the highest salaries in your country?",
+      "Are there any other jobs that you think should have high salaries?",
+      "Some people say it would be better for society if everyone got the same salary. What do you think about that?"
+    ],
+    [
+      "Which places in your country do visitors enjoy visiting most?",
+      "What are some of the benefits of going away on holiday?",
+      "Have there been any recent changes in the types of holiday that are popular in your country?",
+      "What kinds of benefits might a significant increase in tourist numbers bring to a location?",
+      "What are some of the negative effects of a dramatic increase in tourism?",
+      "What developments affecting international travel might there be in the future?"
+    ],
+    [
+      "Which sports do many people enjoy playing in your country?",
+      "What con people learn from playing team sports?",
+      "Should all children learn to play sports at school?",
+      "Why do you think the top sportspeople are paid so much? What are the disadvantages of being a top sportsperson?",
+      "Why are extreme sports growing in popularity today?",
+      "Many people feel governments should ban the most dangerous extreme sports? Do you agree with that view?"
+    ],
+    [
+      "Who can best advise young people about jobs, parents or teachers?",
+      "What is the most important thing to consider when choosing ajob?"
+    ],
+    [
+      "Who can best advise young people about jobs, parents or teachers?",
+      "What is the most important thing to consider when choosing ajob?",
+      "Is it better to work for a small company or a large international company?",
+      "What are the advantages and disadvantages of working from home?",
+      "Many people say that learning from mistakes is the key to a successful career. Do you agree with this view?",
+      "How easy is it for people who want a successful career to balance their work and personal life?"
+    ],
+    [
+      "Who did you go there with?",
+      "What kind of places do young people like to visit?",
+      "Why do people go to such places?",
+      "Do you like going to crowded places? Why or why not?"
+    ],
+    [
+      "Why are music competitions popular in VietNam?",
+      "What kinds of music do people like?"
+    ],
+    [
+      "Why are people friendly with the person they don't like?",
+      "What kinds of people are usually friendly?",
+      "What is the difference between being friendly and being polite?",
+      "What do you think of people who are always straightforward?"
+    ],
+    [
+      "Why are some sports fans so passionate?",
+      "Is there any violence at sporting events in your country?",
+      "Should athletes be better role models?",
+      "What benefits do international sporting events bring?",
+      "Is it important for a country to win lots of medals?",
+      "The money professional sportsmen earn is significantly higher than that the earning of other professionals. Is it justified?"
+    ],
+    [
+      "Why are traditional products important?",
+      "Do you think tradition is important for a country?",
+      "What are the traditional Chinese products?",
+      "Why is it important for children to learn about traditional products?"
+    ],
+    [
+      "Why do many people enjoy participating in national celebrations?",
+      "Have national celebrations become more or less important over time?",
+      "What sort of things do you think countries will celebrate in the future?"
+    ],
+    [
+      "Why do many people today keep buying things which they do not need?",
+      "Do you believe the benefits of a consumer society outweigh the disadvantages?",
+      "How possible is it to avoid the culture of consumerism?"
+    ],
+    [
+      "Why do people always miss their childhood?",
+      "Are kids happier than adults?",
+      "Why do people still remember many of their friends from primary school?",
+      "What kinds of primary school teachers will impress students?"
+    ],
+    [
+      "Why do people go to restaurants when they want to celebrate important occasions?",
+      "Do you think that food prepared at home is always better than in restaurants?",
+      "Which are more popular in your country: fast food restaurants or traditional restaurants?"
+    ],
+    [
+      "Why do people learn foreign languages?",
+      "What makes a good foreign language teacher?",
+      "Do you think grammar is important when learning foreign language?",
+      "Is it interesting to be a foreign language teacher?",
+      "What is the impact of information technology on learning foreign languages?",
+      "What effect will it have on the students if the teacher is impatient with them?"
+    ],
+    [
+      "Why do people like parties?",
+      "Why do some people not like going to parties?",
+      "Do you think music and dancing are a must at a party?",
+      "What would you do if you were disturbed by a neighbour's party?",
+      "Is there any differences between party held at home and in public spaces?"
+    ],
+    [
+      "Why do people move to a new home?",
+      "What problems will people face after moving to a new place?",
+      "How do people solve these problems?",
+      "Is it good to move to a new place frequently?"
+    ],
+    [
+      "Why do people need to travel every day?",
+      "What problems can people have when they are on their daily journey, for example to work or school?",
+      "Some people say that daily journeys like these will not be so common in the future. Do you agree or disagree?",
+      "What do you think people can learn from travelling to other countries?",
+      "Can travel make a positive difference to the economy of a country?",
+      "Do you think a society can benefit if its members have experience of travelling to other countries?"
+    ],
+    [
+      "Why do people rarely use cash now?",
+      "When do children begin to comprehend the value of money?",
+      "Should parents reward children with money?",
+      "Is it good and necessary to teach children to save money?",
+      "What are the advantages and disadvantages of using credit cards?",
+      "Do you think it's a good thing that more people are using digital payment?"
+    ],
+    [
+      "Why do people sometimes go to other cities or other countries for travel?",
+      "Why are historical cities popular?",
+      "Why do places with historical attractions develop tourism more actively?",
+      "Why does living in tourist cities experience more noise?",
+      "Do most people like planned traveling?",
+      "Why is noise pollution worse in tourist cities than in other cities?"
+    ],
+    [
+      "Why do people still enjoy going to the cinema to watch a film?",
+      "What sort of influence can films have on people?",
+      "Should film-makers be responsible for the impact their films can have on people?"
+    ],
+    [
+      "Why do some parents give their children money to spend each week?",
+      "Do you agree that schools should teach children how to manage money?",
+      "Do you think it is a good idea for students to earn money while studying?"
+    ],
+    [
+      "Why do some parents give their children money to spend each week?",
+      "Do you agree that schools should teach children how to manage money?",
+      "Do you think it is a good idea for students to earn money while studying?",
+      "Do you think it is true that in today's society money cannot buy happiness?",
+      "What disadvantages are there in a society where the gap between the rich and poor is very large?",
+      "Do you think richer countries have a responsibility to help poorer countries?"
+    ],
+    [
+      "Why do some people buy lots of things for their home?",
+      "Do you think it is very expensive to make a home look nice?",
+      "Why don't some people care about how their home looks?"
+    ],
+    [
+      "Why do some people buy lots of things for their home?",
+      "Do you think it is very expensive to make a home look nice?",
+      "Why don't some people care about how their home looks?",
+      "In what ways is living in a flat/apartment better than living in a house?",
+      "Do you think homes will look different in the future?",
+      "Do you agree that the kinds of homes people prefer change as they get older?"
+    ],
+    [
+      "Why do some people find the internet addictive?",
+      "What would the world be like without the internet?",
+      "Do you think that the way people use the internet may change in the future?"
+    ],
+    [
+      "Why do some people find the internet addictive?",
+      "What would the world be like without the internet?",
+      "Do you think that the way people use the internet may change in the future?",
+      "What are the ways that social media can be used for positive purposes?",
+      "Why do some individuals post highly negative comments about other people on social media?",
+      "Do you think that companies' main form of advertising will be via social media in the future?"
+    ],
+    [
+      "Why do some people like to record important things with photos?",
+      "What can people learn from historical photographs?",
+      "Is taking photos the best way to remember something?",
+      "Which is better, taking photos or keeping a diary?",
+      "When do people take photos?",
+      "Why do some people like to keep old photos?"
+    ],
+    [
+      "Why do some people not want to help other people?",
+      "Do you agree or disagree that governments have a responsibility to help people?",
+      "Should we consider whether some people deserve help more than others?"
+    ],
+    [
+      "Why do some people want to start their own business?",
+      "Are there any disadvantages to running a business? Which is the most serious?",
+      "What are the most important qualities that a good business person needs?"
+    ],
+    [
+      "Why do some young people keep moving?",
+      "What skills do young people need to live with a dog?",
+      "What do you think about living alone and living with others?",
+      "What skills do you think young people need to learn in order to live independently?",
+      "How can parents and teachers help young people to live independently?"
+    ],
+    [
+      "Why do you think being away from home is stressful for many people?",
+      "What kinds of things can people do to reduce the stress of being away from home?",
+      "Do you think most people prefer to stay home all the time?"
+    ],
+    [
+      "Why do you think people go to restaurants when they want to celebrate something? Which are more popular in your country: fast food restaurants or traditional restaurants?",
+      "Some people say that food in an expensive restaurant is always better than food in a cheap restaurant - would you agree?",
+      "Do you think there will be a greater choice of food available in shops in the future, or will there be less choice?",
+      "What effects has modern technology had on the way food is produced?",
+      "How important is it for a country to be able to grow all the food it needs, without importing any from other countries?"
+    ],
+    [
+      "Why do you think people go to restaurants when they want to celebrate something?",
+      "Which are more popular in your country: fast food restaurants or traditional restaurants?",
+      "Some people say that food in an expensive restaurant is always better than food in a cheap restaurant, would you agree?"
+    ],
+    [
+      "Why do you think some people like doing new things?",
+      "What problems can people have when they try new activities for the first time? Do you think it's best to do new things on your own or with other people?",
+      "What kinds of things do children learn to do when they are very young?",
+      "Do you think children and adults learn to do new things in the same way?",
+      "Some people say that it is more important to be able to learn new things now than it was in the past. Do you agree or disagree with that?"
+    ],
+    [
+      "Why do you think some school teachers use competitions as class activities?",
+      "Do you think it is a good thing to give prizes to children who do well at school?",
+      "Would you say that schools for young children have become more or less competitive since you were that age?"
+    ],
+    [
+      "Why do you think teenagers always want to have the latest devices?",
+      "Why do they often buy a new one even though they already have one?",
+      "What do they do with the old one after buying a new one?",
+      "How hard is it for parents to convince their children not to buy an expensive phone?"
+    ],
+    [
+      "Why do you think world leaders often have meetings together?",
+      "What possible difficulties might be involved in organising meetings between world leaders?",
+      "Do you think that meetings between international leaders will become more frequent in the future?",
+      "Or will there be less need for world leaders to meet?"
+    ],
+    [
+      "Why have cities increased in size in recent years?",
+      "What are the challenges created by ever-growing cities?",
+      "In what ways do you think cities of the future will be different to cities today?"
+    ],
+    [
+      "Why is architecture such a popular university subject?",
+      "In what ways has the design of homes changed in recent years?",
+      "To what extent does the design of buildings affect people's moods?"
+    ],
+    [
+      "Why is it good to discuss problems with other people?",
+      "Do you think that it's better to talk to friends and not family about problems?",
+      "Is it always a good idea to tell lots of people about a problem?"
+    ],
+    [
+      "Why is it good to discuss problems with other people?",
+      "Do you think that it's better to talk to friends and not family about problems?",
+      "Is it always a good idea to tell lots of people about a problem?",
+      "Which communication skills are most important when taking part in meetings with colleagues?",
+      "What are the possible effects of poor written communication skills at work?",
+      "What do you think will be the future impact of technology on communication in the workplace?"
+    ],
+    [
+      "Why is it more difficult for children to concentrate nowadays than in the past?",
+      "Do you think technology will harm children's ability to concentrate?",
+      "What kinds of jobs require high concentration at work?",
+      "Can exercise help people improve concentration?"
+    ],
+    [
+      "Why is shopping such a popular activity?",
+      "What are the advantages to society of a highly developed shopping centre?",
+      "Is society becoming increasingly materialistic?"
+    ],
+    [
+      "Why is tourism important to a country?",
+      "What are the benefits to individuals of visiting another country as tourists?",
+      "How necessary is it for tourists to learn the language of the country they're visiting?"
+    ],
+    [
+      "Why should children be kind to their classmates?",
+      "Can children choose their deskmates?",
+      "What matters most about a colleague's personality?",
+      "Are good colleagues important at work?",
+      "What kind of people are popular at work?",
+      "Are knowledgeable people popular at work?"
+    ],
+    [
+      "Will people continue to shop in small shops and markets in the future?",
+      "Do you think online shopping will replace physical stores?"
+    ],
+    [
+      "Would you like to be a famous person?",
+      "What are the hardships of a celebrity?",
+      "What should celebrities do to protect their privacy?"
+    ],
+    [
+      "What can children do to help in the home? How can parents encourage their children to help with daily tasks?",
+      "Do you think people help their neighbours enough nowadays?",
+      "Do you agree that everyone should contribute to international charities?"
+    ]  
+  ] 
+}
